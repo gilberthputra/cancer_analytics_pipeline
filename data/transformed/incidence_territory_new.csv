@@ -1,0 +1,1900 @@
+DATA_TYPE|CANCER_GROUP_SITE|YEAR|SEX|STATE_OR_TERRITORY|COUNT
+Incidence|Acute lymphoblastic leukaemia|2019|Males|New South Wales|91
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Victoria|49
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Queensland|32
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Western Australia|25
+Incidence|Acute lymphoblastic leukaemia|2019|Males|South Australia|12
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Tasmania|6
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Australian Capital Territory|6
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Northern Territory|1
+Incidence|Acute lymphoblastic leukaemia|2019|Males|Australia|225
+Incidence|Acute lymphoblastic leukaemia|2019|Females|New South Wales|64
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Victoria|44
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Queensland|31
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Western Australia|13
+Incidence|Acute lymphoblastic leukaemia|2019|Females|South Australia|11
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Tasmania|6
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Australian Capital Territory|4
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Northern Territory|1
+Incidence|Acute lymphoblastic leukaemia|2019|Females|Australia|172
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|New South Wales|155
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Victoria|93
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Queensland|63
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Western Australia|38
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|South Australia|23
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Tasmania|12
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Australian Capital Territory|9
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Northern Territory|2
+Incidence|Acute lymphoblastic leukaemia|2019|Persons|Australia|397
+Incidence|Acute myeloid leukaemia|2019|Males|New South Wales|236
+Incidence|Acute myeloid leukaemia|2019|Males|Victoria|167
+Incidence|Acute myeloid leukaemia|2019|Males|Queensland|137
+Incidence|Acute myeloid leukaemia|2019|Males|Western Australia|65
+Incidence|Acute myeloid leukaemia|2019|Males|South Australia|52
+Incidence|Acute myeloid leukaemia|2019|Males|Tasmania|21
+Incidence|Acute myeloid leukaemia|2019|Males|Australian Capital Territory|9
+Incidence|Acute myeloid leukaemia|2019|Males|Northern Territory|4
+Incidence|Acute myeloid leukaemia|2019|Males|Australia|693
+Incidence|Acute myeloid leukaemia|2019|Females|New South Wales|177
+Incidence|Acute myeloid leukaemia|2019|Females|Victoria|113
+Incidence|Acute myeloid leukaemia|2019|Females|Queensland|101
+Incidence|Acute myeloid leukaemia|2019|Females|Western Australia|55
+Incidence|Acute myeloid leukaemia|2019|Females|South Australia|43
+Incidence|Acute myeloid leukaemia|2019|Females|Tasmania|14
+Incidence|Acute myeloid leukaemia|2019|Females|Australian Capital Territory|8
+Incidence|Acute myeloid leukaemia|2019|Females|Northern Territory|2
+Incidence|Acute myeloid leukaemia|2019|Females|Australia|513
+Incidence|Acute myeloid leukaemia|2019|Persons|New South Wales|413
+Incidence|Acute myeloid leukaemia|2019|Persons|Victoria|280
+Incidence|Acute myeloid leukaemia|2019|Persons|Queensland|238
+Incidence|Acute myeloid leukaemia|2019|Persons|Western Australia|120
+Incidence|Acute myeloid leukaemia|2019|Persons|South Australia|95
+Incidence|Acute myeloid leukaemia|2019|Persons|Tasmania|35
+Incidence|Acute myeloid leukaemia|2019|Persons|Australian Capital Territory|18
+Incidence|Acute myeloid leukaemia|2019|Persons|Northern Territory|6
+Incidence|Acute myeloid leukaemia|2019|Persons|Australia|1206
+Incidence|All blood cancers combined|2019|Males|New South Wales|3175
+Incidence|All blood cancers combined|2019|Males|Victoria|2646
+Incidence|All blood cancers combined|2019|Males|Queensland|2018
+Incidence|All blood cancers combined|2019|Males|Western Australia|713
+Incidence|All blood cancers combined|2019|Males|South Australia|722
+Incidence|All blood cancers combined|2019|Males|Tasmania|236
+Incidence|All blood cancers combined|2019|Males|Australian Capital Territory|131
+Incidence|All blood cancers combined|2019|Males|Northern Territory|39
+Incidence|All blood cancers combined|2019|Males|Australia|9687
+Incidence|All blood cancers combined|2019|Females|New South Wales|2238
+Incidence|All blood cancers combined|2019|Females|Victoria|1942
+Incidence|All blood cancers combined|2019|Females|Queensland|1483
+Incidence|All blood cancers combined|2019|Females|Western Australia|533
+Incidence|All blood cancers combined|2019|Females|South Australia|474
+Incidence|All blood cancers combined|2019|Females|Tasmania|147
+Incidence|All blood cancers combined|2019|Females|Australian Capital Territory|89
+Incidence|All blood cancers combined|2019|Females|Northern Territory|28
+Incidence|All blood cancers combined|2019|Females|Australia|6932
+Incidence|All blood cancers combined|2019|Persons|New South Wales|5413
+Incidence|All blood cancers combined|2019|Persons|Victoria|4588
+Incidence|All blood cancers combined|2019|Persons|Queensland|3501
+Incidence|All blood cancers combined|2019|Persons|Western Australia|1246
+Incidence|All blood cancers combined|2019|Persons|South Australia|1196
+Incidence|All blood cancers combined|2019|Persons|Tasmania|383
+Incidence|All blood cancers combined|2019|Persons|Australian Capital Territory|220
+Incidence|All blood cancers combined|2019|Persons|Northern Territory|67
+Incidence|All blood cancers combined|2019|Persons|Australia|16619
+Incidence|All cancers combined|2019|Males|New South Wales|26322
+Incidence|All cancers combined|2019|Males|Victoria|19831
+Incidence|All cancers combined|2019|Males|Queensland|17827
+Incidence|All cancers combined|2019|Males|Western Australia|7744
+Incidence|All cancers combined|2019|Males|South Australia|6432
+Incidence|All cancers combined|2019|Males|Tasmania|2044
+Incidence|All cancers combined|2019|Males|Australian Capital Territory|1017
+Incidence|All cancers combined|2019|Males|Northern Territory|470
+Incidence|All cancers combined|2019|Males|Australia|81792
+Incidence|All cancers combined|2019|Females|New South Wales|21628
+Incidence|All cancers combined|2019|Females|Victoria|16075
+Incidence|All cancers combined|2019|Females|Queensland|14046
+Incidence|All cancers combined|2019|Females|Western Australia|6181
+Incidence|All cancers combined|2019|Females|South Australia|4921
+Incidence|All cancers combined|2019|Females|Tasmania|1626
+Incidence|All cancers combined|2019|Females|Australian Capital Territory|891
+Incidence|All cancers combined|2019|Females|Northern Territory|360
+Incidence|All cancers combined|2019|Females|Australia|65793
+Incidence|All cancers combined|2019|Persons|New South Wales|47950
+Incidence|All cancers combined|2019|Persons|Victoria|35907
+Incidence|All cancers combined|2019|Persons|Queensland|31873
+Incidence|All cancers combined|2019|Persons|Western Australia|13925
+Incidence|All cancers combined|2019|Persons|South Australia|11353
+Incidence|All cancers combined|2019|Persons|Tasmania|3670
+Incidence|All cancers combined|2019|Persons|Australian Capital Territory|1909
+Incidence|All cancers combined|2019|Persons|Northern Territory|830
+Incidence|All cancers combined|2019|Persons|Australia|147586
+Incidence|All sarcomas combined|2019|Males|New South Wales|458
+Incidence|All sarcomas combined|2019|Males|Victoria|293
+Incidence|All sarcomas combined|2019|Males|Queensland|284
+Incidence|All sarcomas combined|2019|Males|Western Australia|128
+Incidence|All sarcomas combined|2019|Males|South Australia|82
+Incidence|All sarcomas combined|2019|Males|Tasmania|24
+Incidence|All sarcomas combined|2019|Males|Australian Capital Territory|19
+Incidence|All sarcomas combined|2019|Males|Northern Territory|6
+Incidence|All sarcomas combined|2019|Males|Australia|1297
+Incidence|All sarcomas combined|2019|Females|New South Wales|323
+Incidence|All sarcomas combined|2019|Females|Victoria|234
+Incidence|All sarcomas combined|2019|Females|Queensland|242
+Incidence|All sarcomas combined|2019|Females|Western Australia|90
+Incidence|All sarcomas combined|2019|Females|South Australia|60
+Incidence|All sarcomas combined|2019|Females|Tasmania|24
+Incidence|All sarcomas combined|2019|Females|Australian Capital Territory|17
+Incidence|All sarcomas combined|2019|Females|Northern Territory|5
+Incidence|All sarcomas combined|2019|Females|Australia|994
+Incidence|All sarcomas combined|2019|Persons|New South Wales|781
+Incidence|All sarcomas combined|2019|Persons|Victoria|527
+Incidence|All sarcomas combined|2019|Persons|Queensland|526
+Incidence|All sarcomas combined|2019|Persons|Western Australia|218
+Incidence|All sarcomas combined|2019|Persons|South Australia|142
+Incidence|All sarcomas combined|2019|Persons|Tasmania|48
+Incidence|All sarcomas combined|2019|Persons|Australian Capital Territory|36
+Incidence|All sarcomas combined|2019|Persons|Northern Territory|11
+Incidence|All sarcomas combined|2019|Persons|Australia|2291
+Incidence|Ampullary cancer|2019|Males|New South Wales|39
+Incidence|Ampullary cancer|2019|Males|Victoria|30
+Incidence|Ampullary cancer|2019|Males|Queensland|17
+Incidence|Ampullary cancer|2019|Males|Western Australia|6
+Incidence|Ampullary cancer|2019|Males|South Australia|7
+Incidence|Ampullary cancer|2019|Males|Tasmania|1
+Incidence|Ampullary cancer|2019|Males|Australian Capital Territory|2
+Incidence|Ampullary cancer|2019|Males|Northern Territory|1
+Incidence|Ampullary cancer|2019|Males|Australia|103
+Incidence|Ampullary cancer|2019|Females|New South Wales|41
+Incidence|Ampullary cancer|2019|Females|Victoria|22
+Incidence|Ampullary cancer|2019|Females|Queensland|16
+Incidence|Ampullary cancer|2019|Females|Western Australia|7
+Incidence|Ampullary cancer|2019|Females|South Australia|4
+Incidence|Ampullary cancer|2019|Females|Tasmania|3
+Incidence|Ampullary cancer|2019|Females|Australian Capital Territory|1
+Incidence|Ampullary cancer|2019|Females|Northern Territory|1
+Incidence|Ampullary cancer|2019|Females|Australia|95
+Incidence|Ampullary cancer|2019|Persons|New South Wales|80
+Incidence|Ampullary cancer|2019|Persons|Victoria|52
+Incidence|Ampullary cancer|2019|Persons|Queensland|33
+Incidence|Ampullary cancer|2019|Persons|Western Australia|13
+Incidence|Ampullary cancer|2019|Persons|South Australia|11
+Incidence|Ampullary cancer|2019|Persons|Tasmania|4
+Incidence|Ampullary cancer|2019|Persons|Australian Capital Territory|3
+Incidence|Ampullary cancer|2019|Persons|Northern Territory|2
+Incidence|Ampullary cancer|2019|Persons|Australia|198
+Incidence|Anal cancer|2019|Males|New South Wales|72
+Incidence|Anal cancer|2019|Males|Victoria|43
+Incidence|Anal cancer|2019|Males|Queensland|35
+Incidence|Anal cancer|2019|Males|Western Australia|15
+Incidence|Anal cancer|2019|Males|South Australia|10
+Incidence|Anal cancer|2019|Males|Tasmania|13
+Incidence|Anal cancer|2019|Males|Australian Capital Territory|3
+Incidence|Anal cancer|2019|Males|Northern Territory|1
+Incidence|Anal cancer|2019|Males|Australia|196
+Incidence|Anal cancer|2019|Females|New South Wales|98
+Incidence|Anal cancer|2019|Females|Victoria|73
+Incidence|Anal cancer|2019|Females|Queensland|91
+Incidence|Anal cancer|2019|Females|Western Australia|21
+Incidence|Anal cancer|2019|Females|South Australia|32
+Incidence|Anal cancer|2019|Females|Tasmania|6
+Incidence|Anal cancer|2019|Females|Australian Capital Territory|3
+Incidence|Anal cancer|2019|Females|Northern Territory|2
+Incidence|Anal cancer|2019|Females|Australia|328
+Incidence|Anal cancer|2019|Persons|New South Wales|170
+Incidence|Anal cancer|2019|Persons|Victoria|116
+Incidence|Anal cancer|2019|Persons|Queensland|126
+Incidence|Anal cancer|2019|Persons|Western Australia|36
+Incidence|Anal cancer|2019|Persons|South Australia|42
+Incidence|Anal cancer|2019|Persons|Tasmania|19
+Incidence|Anal cancer|2019|Persons|Australian Capital Territory|6
+Incidence|Anal cancer|2019|Persons|Northern Territory|4
+Incidence|Anal cancer|2019|Persons|Australia|524
+Incidence|Bladder cancer|2019|Males|New South Wales|737
+Incidence|Bladder cancer|2019|Males|Victoria|474
+Incidence|Bladder cancer|2019|Males|Queensland|434
+Incidence|Bladder cancer|2019|Males|Western Australia|190
+Incidence|Bladder cancer|2019|Males|South Australia|222
+Incidence|Bladder cancer|2019|Males|Tasmania|48
+Incidence|Bladder cancer|2019|Males|Australian Capital Territory|24
+Incidence|Bladder cancer|2019|Males|Northern Territory|13
+Incidence|Bladder cancer|2019|Males|Australia|2140
+Incidence|Bladder cancer|2019|Females|New South Wales|249
+Incidence|Bladder cancer|2019|Females|Victoria|166
+Incidence|Bladder cancer|2019|Females|Queensland|113
+Incidence|Bladder cancer|2019|Females|Western Australia|58
+Incidence|Bladder cancer|2019|Females|South Australia|53
+Incidence|Bladder cancer|2019|Females|Tasmania|24
+Incidence|Bladder cancer|2019|Females|Australian Capital Territory|6
+Incidence|Bladder cancer|2019|Females|Northern Territory|3
+Incidence|Bladder cancer|2019|Females|Australia|675
+Incidence|Bladder cancer|2019|Persons|New South Wales|986
+Incidence|Bladder cancer|2019|Persons|Victoria|640
+Incidence|Bladder cancer|2019|Persons|Queensland|547
+Incidence|Bladder cancer|2019|Persons|Western Australia|248
+Incidence|Bladder cancer|2019|Persons|South Australia|275
+Incidence|Bladder cancer|2019|Persons|Tasmania|72
+Incidence|Bladder cancer|2019|Persons|Australian Capital Territory|30
+Incidence|Bladder cancer|2019|Persons|Northern Territory|17
+Incidence|Bladder cancer|2019|Persons|Australia|2815
+Incidence|Bone cancer|2019|Males|New South Wales|49
+Incidence|Bone cancer|2019|Males|Victoria|43
+Incidence|Bone cancer|2019|Males|Queensland|40
+Incidence|Bone cancer|2019|Males|Western Australia|14
+Incidence|Bone cancer|2019|Males|South Australia|3
+Incidence|Bone cancer|2019|Males|Tasmania|1
+Incidence|Bone cancer|2019|Males|Australian Capital Territory|3
+Incidence|Bone cancer|2019|Males|Northern Territory|1
+Incidence|Bone cancer|2019|Males|Australia|155
+Incidence|Bone cancer|2019|Females|New South Wales|29
+Incidence|Bone cancer|2019|Females|Victoria|17
+Incidence|Bone cancer|2019|Females|Queensland|22
+Incidence|Bone cancer|2019|Females|Western Australia|9
+Incidence|Bone cancer|2019|Females|South Australia|9
+Incidence|Bone cancer|2019|Females|Tasmania|0
+Incidence|Bone cancer|2019|Females|Australian Capital Territory|2
+Incidence|Bone cancer|2019|Females|Northern Territory|1
+Incidence|Bone cancer|2019|Females|Australia|87
+Incidence|Bone cancer|2019|Persons|New South Wales|78
+Incidence|Bone cancer|2019|Persons|Victoria|60
+Incidence|Bone cancer|2019|Persons|Queensland|62
+Incidence|Bone cancer|2019|Persons|Western Australia|23
+Incidence|Bone cancer|2019|Persons|South Australia|12
+Incidence|Bone cancer|2019|Persons|Tasmania|1
+Incidence|Bone cancer|2019|Persons|Australian Capital Territory|5
+Incidence|Bone cancer|2019|Persons|Northern Territory|2
+Incidence|Bone cancer|2019|Persons|Australia|242
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|New South Wales|370
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Victoria|290
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Queensland|212
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Western Australia|119
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|South Australia|100
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Tasmania|34
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Australian Capital Territory|18
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Northern Territory|7
+Incidence|Brain and other central nervous system (cancer of the)|2019|Males|Australia|1147
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|New South Wales|248
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Victoria|224
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Queensland|168
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Western Australia|66
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|South Australia|70
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Tasmania|23
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Australian Capital Territory|14
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Northern Territory|4
+Incidence|Brain and other central nervous system (cancer of the)|2019|Females|Australia|816
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|New South Wales|618
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Victoria|514
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Queensland|380
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Western Australia|185
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|South Australia|170
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Tasmania|57
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Australian Capital Territory|32
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Northern Territory|11
+Incidence|Brain and other central nervous system (cancer of the)|2019|Persons|Australia|1963
+Incidence|Brain cancer|2019|Males|New South Wales|350
+Incidence|Brain cancer|2019|Males|Victoria|274
+Incidence|Brain cancer|2019|Males|Queensland|199
+Incidence|Brain cancer|2019|Males|Western Australia|112
+Incidence|Brain cancer|2019|Males|South Australia|93
+Incidence|Brain cancer|2019|Males|Tasmania|30
+Incidence|Brain cancer|2019|Males|Australian Capital Territory|17
+Incidence|Brain cancer|2019|Males|Northern Territory|7
+Incidence|Brain cancer|2019|Males|Australia|1078
+Incidence|Brain cancer|2019|Females|New South Wales|223
+Incidence|Brain cancer|2019|Females|Victoria|207
+Incidence|Brain cancer|2019|Females|Queensland|157
+Incidence|Brain cancer|2019|Females|Western Australia|63
+Incidence|Brain cancer|2019|Females|South Australia|65
+Incidence|Brain cancer|2019|Females|Tasmania|20
+Incidence|Brain cancer|2019|Females|Australian Capital Territory|13
+Incidence|Brain cancer|2019|Females|Northern Territory|4
+Incidence|Brain cancer|2019|Females|Australia|750
+Incidence|Brain cancer|2019|Persons|New South Wales|573
+Incidence|Brain cancer|2019|Persons|Victoria|481
+Incidence|Brain cancer|2019|Persons|Queensland|356
+Incidence|Brain cancer|2019|Persons|Western Australia|175
+Incidence|Brain cancer|2019|Persons|South Australia|158
+Incidence|Brain cancer|2019|Persons|Tasmania|50
+Incidence|Brain cancer|2019|Persons|Australian Capital Territory|30
+Incidence|Brain cancer|2019|Persons|Northern Territory|11
+Incidence|Brain cancer|2019|Persons|Australia|1828
+Incidence|Breast cancer|2019|Males|New South Wales|44
+Incidence|Breast cancer|2019|Males|Victoria|40
+Incidence|Breast cancer|2019|Males|Queensland|35
+Incidence|Breast cancer|2019|Males|Western Australia|15
+Incidence|Breast cancer|2019|Males|South Australia|16
+Incidence|Breast cancer|2019|Males|Tasmania|4
+Incidence|Breast cancer|2019|Males|Australian Capital Territory|2
+Incidence|Breast cancer|2019|Males|Northern Territory|2
+Incidence|Breast cancer|2019|Males|Australia|163
+Incidence|Breast cancer|2019|Females|New South Wales|5971
+Incidence|Breast cancer|2019|Females|Victoria|4665
+Incidence|Breast cancer|2019|Females|Queensland|3713
+Incidence|Breast cancer|2019|Females|Western Australia|1878
+Incidence|Breast cancer|2019|Females|South Australia|1422
+Incidence|Breast cancer|2019|Females|Tasmania|431
+Incidence|Breast cancer|2019|Females|Australian Capital Territory|290
+Incidence|Breast cancer|2019|Females|Northern Territory|104
+Incidence|Breast cancer|2019|Females|Australia|18496
+Incidence|Breast cancer|2019|Persons|New South Wales|6015
+Incidence|Breast cancer|2019|Persons|Victoria|4705
+Incidence|Breast cancer|2019|Persons|Queensland|3748
+Incidence|Breast cancer|2019|Persons|Western Australia|1893
+Incidence|Breast cancer|2019|Persons|South Australia|1438
+Incidence|Breast cancer|2019|Persons|Tasmania|435
+Incidence|Breast cancer|2019|Persons|Australian Capital Territory|291
+Incidence|Breast cancer|2019|Persons|Northern Territory|106
+Incidence|Breast cancer|2019|Persons|Australia|18659
+Incidence|Cervical cancer|2019|Females|New South Wales|277
+Incidence|Cervical cancer|2019|Females|Victoria|222
+Incidence|Cervical cancer|2019|Females|Queensland|243
+Incidence|Cervical cancer|2019|Females|Western Australia|82
+Incidence|Cervical cancer|2019|Females|South Australia|78
+Incidence|Cervical cancer|2019|Females|Tasmania|26
+Incidence|Cervical cancer|2019|Females|Australian Capital Territory|12
+Incidence|Cervical cancer|2019|Females|Northern Territory|9
+Incidence|Cervical cancer|2019|Females|Australia|945
+Incidence|Cervical cancer|2019|Persons|New South Wales|277
+Incidence|Cervical cancer|2019|Persons|Victoria|222
+Incidence|Cervical cancer|2019|Persons|Queensland|243
+Incidence|Cervical cancer|2019|Persons|Western Australia|82
+Incidence|Cervical cancer|2019|Persons|South Australia|78
+Incidence|Cervical cancer|2019|Persons|Tasmania|26
+Incidence|Cervical cancer|2019|Persons|Australian Capital Territory|12
+Incidence|Cervical cancer|2019|Persons|Northern Territory|9
+Incidence|Cervical cancer|2019|Persons|Australia|945
+Incidence|Chronic lymphocytic leukaemia|2019|Males|New South Wales|385
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Victoria|366
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Queensland|274
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Western Australia|66
+Incidence|Chronic lymphocytic leukaemia|2019|Males|South Australia|32
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Tasmania|20
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Australian Capital Territory|16
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Northern Territory|2
+Incidence|Chronic lymphocytic leukaemia|2019|Males|Australia|1161
+Incidence|Chronic lymphocytic leukaemia|2019|Females|New South Wales|248
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Victoria|202
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Queensland|166
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Western Australia|34
+Incidence|Chronic lymphocytic leukaemia|2019|Females|South Australia|20
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Tasmania|10
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Australian Capital Territory|11
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Northern Territory|1
+Incidence|Chronic lymphocytic leukaemia|2019|Females|Australia|694
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|New South Wales|633
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Victoria|568
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Queensland|440
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Western Australia|100
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|South Australia|52
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Tasmania|30
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Australian Capital Territory|27
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Northern Territory|3
+Incidence|Chronic lymphocytic leukaemia|2019|Persons|Australia|1855
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|New South Wales|98
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Victoria|53
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Queensland|49
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Western Australia|9
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|South Australia|17
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Tasmania|2
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Australian Capital Territory|2
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Northern Territory|0
+Incidence|Chronic myeloid leukaemia (CML)|2019|Males|Australia|229
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|New South Wales|49
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Victoria|51
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Queensland|42
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Western Australia|13
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|South Australia|12
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Tasmania|1
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Australian Capital Territory|2
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Northern Territory|1
+Incidence|Chronic myeloid leukaemia (CML)|2019|Females|Australia|169
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|New South Wales|147
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Victoria|104
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Queensland|91
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Western Australia|22
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|South Australia|29
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Tasmania|3
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Australian Capital Territory|4
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Northern Territory|2
+Incidence|Chronic myeloid leukaemia (CML)|2019|Persons|Australia|398
+Incidence|Colon cancer|2019|Males|New South Wales|1791
+Incidence|Colon cancer|2019|Males|Victoria|1283
+Incidence|Colon cancer|2019|Males|Queensland|1221
+Incidence|Colon cancer|2019|Males|Western Australia|453
+Incidence|Colon cancer|2019|Males|South Australia|415
+Incidence|Colon cancer|2019|Males|Tasmania|136
+Incidence|Colon cancer|2019|Males|Australian Capital Territory|66
+Incidence|Colon cancer|2019|Males|Northern Territory|34
+Incidence|Colon cancer|2019|Males|Australia|5408
+Incidence|Colon cancer|2019|Females|New South Wales|1760
+Incidence|Colon cancer|2019|Females|Victoria|1269
+Incidence|Colon cancer|2019|Females|Queensland|1130
+Incidence|Colon cancer|2019|Females|Western Australia|417
+Incidence|Colon cancer|2019|Females|South Australia|430
+Incidence|Colon cancer|2019|Females|Tasmania|130
+Incidence|Colon cancer|2019|Females|Australian Capital Territory|67
+Incidence|Colon cancer|2019|Females|Northern Territory|25
+Incidence|Colon cancer|2019|Females|Australia|5226
+Incidence|Colon cancer|2019|Persons|New South Wales|3551
+Incidence|Colon cancer|2019|Persons|Victoria|2552
+Incidence|Colon cancer|2019|Persons|Queensland|2351
+Incidence|Colon cancer|2019|Persons|Western Australia|870
+Incidence|Colon cancer|2019|Persons|South Australia|845
+Incidence|Colon cancer|2019|Persons|Tasmania|266
+Incidence|Colon cancer|2019|Persons|Australian Capital Territory|133
+Incidence|Colon cancer|2019|Persons|Northern Territory|59
+Incidence|Colon cancer|2019|Persons|Australia|10634
+Incidence|Colorectal cancer|2019|Males|New South Wales|2802
+Incidence|Colorectal cancer|2019|Males|Victoria|2071
+Incidence|Colorectal cancer|2019|Males|Queensland|1878
+Incidence|Colorectal cancer|2019|Males|Western Australia|715
+Incidence|Colorectal cancer|2019|Males|South Australia|631
+Incidence|Colorectal cancer|2019|Males|Tasmania|201
+Incidence|Colorectal cancer|2019|Males|Australian Capital Territory|107
+Incidence|Colorectal cancer|2019|Males|Northern Territory|51
+Incidence|Colorectal cancer|2019|Males|Australia|8463
+Incidence|Colorectal cancer|2019|Females|New South Wales|2362
+Incidence|Colorectal cancer|2019|Females|Victoria|1744
+Incidence|Colorectal cancer|2019|Females|Queensland|1482
+Incidence|Colorectal cancer|2019|Females|Western Australia|593
+Incidence|Colorectal cancer|2019|Females|South Australia|584
+Incidence|Colorectal cancer|2019|Females|Tasmania|184
+Incidence|Colorectal cancer|2019|Females|Australian Capital Territory|91
+Incidence|Colorectal cancer|2019|Females|Northern Territory|39
+Incidence|Colorectal cancer|2019|Females|Australia|7068
+Incidence|Colorectal cancer|2019|Persons|New South Wales|5164
+Incidence|Colorectal cancer|2019|Persons|Victoria|3815
+Incidence|Colorectal cancer|2019|Persons|Queensland|3360
+Incidence|Colorectal cancer|2019|Persons|Western Australia|1308
+Incidence|Colorectal cancer|2019|Persons|South Australia|1215
+Incidence|Colorectal cancer|2019|Persons|Tasmania|385
+Incidence|Colorectal cancer|2019|Persons|Australian Capital Territory|199
+Incidence|Colorectal cancer|2019|Persons|Northern Territory|90
+Incidence|Colorectal cancer|2019|Persons|Australia|15531
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|New South Wales|159
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Victoria|104
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Queensland|76
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Western Australia|47
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|South Australia|53
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Tasmania|11
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Australian Capital Territory|8
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Northern Territory|3
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Males|Australia|457
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|New South Wales|95
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Victoria|74
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Queensland|56
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Western Australia|23
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|South Australia|30
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Tasmania|9
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Australian Capital Territory|5
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Northern Territory|2
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Females|Australia|295
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|New South Wales|254
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Victoria|178
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Queensland|132
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Western Australia|70
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|South Australia|83
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Tasmania|20
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Australian Capital Territory|12
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Northern Territory|5
+Incidence|Connective, subcutaneous and other soft tissues (cancer of)|2019|Persons|Australia|752
+Incidence|Endometrial cancer|2019|Females|New South Wales|818
+Incidence|Endometrial cancer|2019|Females|Victoria|749
+Incidence|Endometrial cancer|2019|Females|Queensland|460
+Incidence|Endometrial cancer|2019|Females|Western Australia|233
+Incidence|Endometrial cancer|2019|Females|South Australia|218
+Incidence|Endometrial cancer|2019|Females|Tasmania|71
+Incidence|Endometrial cancer|2019|Females|Australian Capital Territory|44
+Incidence|Endometrial cancer|2019|Females|Northern Territory|17
+Incidence|Endometrial cancer|2019|Females|Australia|2612
+Incidence|Endometrial cancer|2019|Persons|New South Wales|818
+Incidence|Endometrial cancer|2019|Persons|Victoria|749
+Incidence|Endometrial cancer|2019|Persons|Queensland|460
+Incidence|Endometrial cancer|2019|Persons|Western Australia|233
+Incidence|Endometrial cancer|2019|Persons|South Australia|218
+Incidence|Endometrial cancer|2019|Persons|Tasmania|71
+Incidence|Endometrial cancer|2019|Persons|Australian Capital Territory|44
+Incidence|Endometrial cancer|2019|Persons|Northern Territory|17
+Incidence|Endometrial cancer|2019|Persons|Australia|2612
+Incidence|Extrahepatic bile duct cancer|2019|Males|New South Wales|63
+Incidence|Extrahepatic bile duct cancer|2019|Males|Victoria|46
+Incidence|Extrahepatic bile duct cancer|2019|Males|Queensland|54
+Incidence|Extrahepatic bile duct cancer|2019|Males|Western Australia|24
+Incidence|Extrahepatic bile duct cancer|2019|Males|South Australia|12
+Incidence|Extrahepatic bile duct cancer|2019|Males|Tasmania|6
+Incidence|Extrahepatic bile duct cancer|2019|Males|Australian Capital Territory|2
+Incidence|Extrahepatic bile duct cancer|2019|Males|Northern Territory|1
+Incidence|Extrahepatic bile duct cancer|2019|Males|Australia|208
+Incidence|Extrahepatic bile duct cancer|2019|Females|New South Wales|36
+Incidence|Extrahepatic bile duct cancer|2019|Females|Victoria|37
+Incidence|Extrahepatic bile duct cancer|2019|Females|Queensland|40
+Incidence|Extrahepatic bile duct cancer|2019|Females|Western Australia|20
+Incidence|Extrahepatic bile duct cancer|2019|Females|South Australia|12
+Incidence|Extrahepatic bile duct cancer|2019|Females|Tasmania|5
+Incidence|Extrahepatic bile duct cancer|2019|Females|Australian Capital Territory|2
+Incidence|Extrahepatic bile duct cancer|2019|Females|Northern Territory|2
+Incidence|Extrahepatic bile duct cancer|2019|Females|Australia|152
+Incidence|Extrahepatic bile duct cancer|2019|Persons|New South Wales|99
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Victoria|83
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Queensland|94
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Western Australia|44
+Incidence|Extrahepatic bile duct cancer|2019|Persons|South Australia|24
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Tasmania|11
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Australian Capital Territory|4
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Northern Territory|3
+Incidence|Extrahepatic bile duct cancer|2019|Persons|Australia|360
+Incidence|Eye cancer|2019|Males|New South Wales|49
+Incidence|Eye cancer|2019|Males|Victoria|36
+Incidence|Eye cancer|2019|Males|Queensland|46
+Incidence|Eye cancer|2019|Males|Western Australia|19
+Incidence|Eye cancer|2019|Males|South Australia|16
+Incidence|Eye cancer|2019|Males|Tasmania|1
+Incidence|Eye cancer|2019|Males|Australian Capital Territory|2
+Incidence|Eye cancer|2019|Males|Northern Territory|1
+Incidence|Eye cancer|2019|Males|Australia|171
+Incidence|Eye cancer|2019|Females|New South Wales|30
+Incidence|Eye cancer|2019|Females|Victoria|28
+Incidence|Eye cancer|2019|Females|Queensland|37
+Incidence|Eye cancer|2019|Females|Western Australia|9
+Incidence|Eye cancer|2019|Females|South Australia|23
+Incidence|Eye cancer|2019|Females|Tasmania|3
+Incidence|Eye cancer|2019|Females|Australian Capital Territory|2
+Incidence|Eye cancer|2019|Females|Northern Territory|1
+Incidence|Eye cancer|2019|Females|Australia|134
+Incidence|Eye cancer|2019|Persons|New South Wales|79
+Incidence|Eye cancer|2019|Persons|Victoria|64
+Incidence|Eye cancer|2019|Persons|Queensland|83
+Incidence|Eye cancer|2019|Persons|Western Australia|28
+Incidence|Eye cancer|2019|Persons|South Australia|39
+Incidence|Eye cancer|2019|Persons|Tasmania|4
+Incidence|Eye cancer|2019|Persons|Australian Capital Territory|5
+Incidence|Eye cancer|2019|Persons|Northern Territory|1
+Incidence|Eye cancer|2019|Persons|Australia|305
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|New South Wales|176
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Victoria|133
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Queensland|117
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Western Australia|45
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|South Australia|38
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Tasmania|16
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Australian Capital Territory|8
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Northern Territory|3
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Males|Australia|532
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|New South Wales|186
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Victoria|138
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Queensland|118
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Western Australia|49
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|South Australia|46
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Tasmania|19
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Australian Capital Territory|9
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Northern Territory|6
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Females|Australia|565
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|New South Wales|362
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Victoria|271
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Queensland|235
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Western Australia|94
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|South Australia|84
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Tasmania|35
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Australian Capital Territory|16
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Northern Territory|9
+Incidence|Gallbladder and extrahepatic bile duct cancer|2019|Persons|Australia|1097
+Incidence|Gallbladder cancer|2019|Males|New South Wales|34
+Incidence|Gallbladder cancer|2019|Males|Victoria|32
+Incidence|Gallbladder cancer|2019|Males|Queensland|35
+Incidence|Gallbladder cancer|2019|Males|Western Australia|11
+Incidence|Gallbladder cancer|2019|Males|South Australia|9
+Incidence|Gallbladder cancer|2019|Males|Tasmania|2
+Incidence|Gallbladder cancer|2019|Males|Australian Capital Territory|1
+Incidence|Gallbladder cancer|2019|Males|Northern Territory|1
+Incidence|Gallbladder cancer|2019|Males|Australia|123
+Incidence|Gallbladder cancer|2019|Females|New South Wales|72
+Incidence|Gallbladder cancer|2019|Females|Victoria|60
+Incidence|Gallbladder cancer|2019|Females|Queensland|51
+Incidence|Gallbladder cancer|2019|Females|Western Australia|17
+Incidence|Gallbladder cancer|2019|Females|South Australia|19
+Incidence|Gallbladder cancer|2019|Females|Tasmania|8
+Incidence|Gallbladder cancer|2019|Females|Australian Capital Territory|4
+Incidence|Gallbladder cancer|2019|Females|Northern Territory|3
+Incidence|Gallbladder cancer|2019|Females|Australia|232
+Incidence|Gallbladder cancer|2019|Persons|New South Wales|106
+Incidence|Gallbladder cancer|2019|Persons|Victoria|92
+Incidence|Gallbladder cancer|2019|Persons|Queensland|86
+Incidence|Gallbladder cancer|2019|Persons|Western Australia|28
+Incidence|Gallbladder cancer|2019|Persons|South Australia|28
+Incidence|Gallbladder cancer|2019|Persons|Tasmania|10
+Incidence|Gallbladder cancer|2019|Persons|Australian Capital Territory|6
+Incidence|Gallbladder cancer|2019|Persons|Northern Territory|4
+Incidence|Gallbladder cancer|2019|Persons|Australia|355
+Incidence|Gynaecological cancers|2019|Females|New South Wales|1957
+Incidence|Gynaecological cancers|2019|Females|Victoria|1578
+Incidence|Gynaecological cancers|2019|Females|Queensland|1321
+Incidence|Gynaecological cancers|2019|Females|Western Australia|511
+Incidence|Gynaecological cancers|2019|Females|South Australia|462
+Incidence|Gynaecological cancers|2019|Females|Tasmania|160
+Incidence|Gynaecological cancers|2019|Females|Australian Capital Territory|87
+Incidence|Gynaecological cancers|2019|Females|Northern Territory|40
+Incidence|Gynaecological cancers|2019|Females|Australia|6119
+Incidence|Gynaecological cancers|2019|Persons|New South Wales|1957
+Incidence|Gynaecological cancers|2019|Persons|Victoria|1578
+Incidence|Gynaecological cancers|2019|Persons|Queensland|1321
+Incidence|Gynaecological cancers|2019|Persons|Western Australia|511
+Incidence|Gynaecological cancers|2019|Persons|South Australia|462
+Incidence|Gynaecological cancers|2019|Persons|Tasmania|160
+Incidence|Gynaecological cancers|2019|Persons|Australian Capital Territory|87
+Incidence|Gynaecological cancers|2019|Persons|Northern Territory|40
+Incidence|Gynaecological cancers|2019|Persons|Australia|6119
+Incidence|Head and neck cancer (excluding lip)|2019|Males|New South Wales|994
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Victoria|709
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Queensland|703
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Western Australia|267
+Incidence|Head and neck cancer (excluding lip)|2019|Males|South Australia|198
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Tasmania|81
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Australian Capital Territory|32
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Northern Territory|39
+Incidence|Head and neck cancer (excluding lip)|2019|Males|Australia|3030
+Incidence|Head and neck cancer (excluding lip)|2019|Females|New South Wales|398
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Victoria|260
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Queensland|231
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Western Australia|101
+Incidence|Head and neck cancer (excluding lip)|2019|Females|South Australia|86
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Tasmania|32
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Australian Capital Territory|15
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Northern Territory|9
+Incidence|Head and neck cancer (excluding lip)|2019|Females|Australia|1137
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|New South Wales|1392
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Victoria|970
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Queensland|934
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Western Australia|368
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|South Australia|284
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Tasmania|113
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Australian Capital Territory|47
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Northern Territory|48
+Incidence|Head and neck cancer (excluding lip)|2019|Persons|Australia|4168
+Incidence|Head and neck cancer (including lip)|2019|Males|New South Wales|1256
+Incidence|Head and neck cancer (including lip)|2019|Males|Victoria|830
+Incidence|Head and neck cancer (including lip)|2019|Males|Queensland|809
+Incidence|Head and neck cancer (including lip)|2019|Males|Western Australia|322
+Incidence|Head and neck cancer (including lip)|2019|Males|South Australia|247
+Incidence|Head and neck cancer (including lip)|2019|Males|Tasmania|121
+Incidence|Head and neck cancer (including lip)|2019|Males|Australian Capital Territory|37
+Incidence|Head and neck cancer (including lip)|2019|Males|Northern Territory|42
+Incidence|Head and neck cancer (including lip)|2019|Males|Australia|3670
+Incidence|Head and neck cancer (including lip)|2019|Females|New South Wales|490
+Incidence|Head and neck cancer (including lip)|2019|Females|Victoria|303
+Incidence|Head and neck cancer (including lip)|2019|Females|Queensland|253
+Incidence|Head and neck cancer (including lip)|2019|Females|Western Australia|120
+Incidence|Head and neck cancer (including lip)|2019|Females|South Australia|106
+Incidence|Head and neck cancer (including lip)|2019|Females|Tasmania|43
+Incidence|Head and neck cancer (including lip)|2019|Females|Australian Capital Territory|16
+Incidence|Head and neck cancer (including lip)|2019|Females|Northern Territory|10
+Incidence|Head and neck cancer (including lip)|2019|Females|Australia|1346
+Incidence|Head and neck cancer (including lip)|2019|Persons|New South Wales|1746
+Incidence|Head and neck cancer (including lip)|2019|Persons|Victoria|1134
+Incidence|Head and neck cancer (including lip)|2019|Persons|Queensland|1062
+Incidence|Head and neck cancer (including lip)|2019|Persons|Western Australia|442
+Incidence|Head and neck cancer (including lip)|2019|Persons|South Australia|353
+Incidence|Head and neck cancer (including lip)|2019|Persons|Tasmania|164
+Incidence|Head and neck cancer (including lip)|2019|Persons|Australian Capital Territory|53
+Incidence|Head and neck cancer (including lip)|2019|Persons|Northern Territory|51
+Incidence|Head and neck cancer (including lip)|2019|Persons|Australia|5017
+Incidence|Hodgkin lymphoma|2019|Males|New South Wales|133
+Incidence|Hodgkin lymphoma|2019|Males|Victoria|108
+Incidence|Hodgkin lymphoma|2019|Males|Queensland|71
+Incidence|Hodgkin lymphoma|2019|Males|Western Australia|25
+Incidence|Hodgkin lymphoma|2019|Males|South Australia|37
+Incidence|Hodgkin lymphoma|2019|Males|Tasmania|6
+Incidence|Hodgkin lymphoma|2019|Males|Australian Capital Territory|7
+Incidence|Hodgkin lymphoma|2019|Males|Northern Territory|1
+Incidence|Hodgkin lymphoma|2019|Males|Australia|389
+Incidence|Hodgkin lymphoma|2019|Females|New South Wales|108
+Incidence|Hodgkin lymphoma|2019|Females|Victoria|98
+Incidence|Hodgkin lymphoma|2019|Females|Queensland|66
+Incidence|Hodgkin lymphoma|2019|Females|Western Australia|27
+Incidence|Hodgkin lymphoma|2019|Females|South Australia|10
+Incidence|Hodgkin lymphoma|2019|Females|Tasmania|5
+Incidence|Hodgkin lymphoma|2019|Females|Australian Capital Territory|6
+Incidence|Hodgkin lymphoma|2019|Females|Northern Territory|2
+Incidence|Hodgkin lymphoma|2019|Females|Australia|327
+Incidence|Hodgkin lymphoma|2019|Persons|New South Wales|241
+Incidence|Hodgkin lymphoma|2019|Persons|Victoria|206
+Incidence|Hodgkin lymphoma|2019|Persons|Queensland|137
+Incidence|Hodgkin lymphoma|2019|Persons|Western Australia|52
+Incidence|Hodgkin lymphoma|2019|Persons|South Australia|47
+Incidence|Hodgkin lymphoma|2019|Persons|Tasmania|11
+Incidence|Hodgkin lymphoma|2019|Persons|Australian Capital Territory|13
+Incidence|Hodgkin lymphoma|2019|Persons|Northern Territory|3
+Incidence|Hodgkin lymphoma|2019|Persons|Australia|716
+Incidence|Hypopharyngeal cancer|2019|Males|New South Wales|57
+Incidence|Hypopharyngeal cancer|2019|Males|Victoria|30
+Incidence|Hypopharyngeal cancer|2019|Males|Queensland|29
+Incidence|Hypopharyngeal cancer|2019|Males|Western Australia|5
+Incidence|Hypopharyngeal cancer|2019|Males|South Australia|8
+Incidence|Hypopharyngeal cancer|2019|Males|Tasmania|3
+Incidence|Hypopharyngeal cancer|2019|Males|Australian Capital Territory|2
+Incidence|Hypopharyngeal cancer|2019|Males|Northern Territory|3
+Incidence|Hypopharyngeal cancer|2019|Males|Australia|135
+Incidence|Hypopharyngeal cancer|2019|Females|New South Wales|6
+Incidence|Hypopharyngeal cancer|2019|Females|Victoria|5
+Incidence|Hypopharyngeal cancer|2019|Females|Queensland|7
+Incidence|Hypopharyngeal cancer|2019|Females|Western Australia|1
+Incidence|Hypopharyngeal cancer|2019|Females|South Australia|1
+Incidence|Hypopharyngeal cancer|2019|Females|Tasmania|0
+Incidence|Hypopharyngeal cancer|2019|Females|Australian Capital Territory|0
+Incidence|Hypopharyngeal cancer|2019|Females|Northern Territory|0
+Incidence|Hypopharyngeal cancer|2019|Females|Australia|20
+Incidence|Hypopharyngeal cancer|2019|Persons|New South Wales|63
+Incidence|Hypopharyngeal cancer|2019|Persons|Victoria|35
+Incidence|Hypopharyngeal cancer|2019|Persons|Queensland|36
+Incidence|Hypopharyngeal cancer|2019|Persons|Western Australia|6
+Incidence|Hypopharyngeal cancer|2019|Persons|South Australia|9
+Incidence|Hypopharyngeal cancer|2019|Persons|Tasmania|3
+Incidence|Hypopharyngeal cancer|2019|Persons|Australian Capital Territory|2
+Incidence|Hypopharyngeal cancer|2019|Persons|Northern Territory|3
+Incidence|Hypopharyngeal cancer|2019|Persons|Australia|155
+Incidence|Immunoproliferative cancers|2019|Males|New South Wales|53
+Incidence|Immunoproliferative cancers|2019|Males|Victoria|90
+Incidence|Immunoproliferative cancers|2019|Males|Queensland|36
+Incidence|Immunoproliferative cancers|2019|Males|Western Australia|22
+Incidence|Immunoproliferative cancers|2019|Males|South Australia|10
+Incidence|Immunoproliferative cancers|2019|Males|Tasmania|9
+Incidence|Immunoproliferative cancers|2019|Males|Australian Capital Territory|2
+Incidence|Immunoproliferative cancers|2019|Males|Northern Territory|1
+Incidence|Immunoproliferative cancers|2019|Males|Australia|224
+Incidence|Immunoproliferative cancers|2019|Females|New South Wales|41
+Incidence|Immunoproliferative cancers|2019|Females|Victoria|65
+Incidence|Immunoproliferative cancers|2019|Females|Queensland|32
+Incidence|Immunoproliferative cancers|2019|Females|Western Australia|19
+Incidence|Immunoproliferative cancers|2019|Females|South Australia|8
+Incidence|Immunoproliferative cancers|2019|Females|Tasmania|5
+Incidence|Immunoproliferative cancers|2019|Females|Australian Capital Territory|2
+Incidence|Immunoproliferative cancers|2019|Females|Northern Territory|1
+Incidence|Immunoproliferative cancers|2019|Females|Australia|170
+Incidence|Immunoproliferative cancers|2019|Persons|New South Wales|94
+Incidence|Immunoproliferative cancers|2019|Persons|Victoria|155
+Incidence|Immunoproliferative cancers|2019|Persons|Queensland|68
+Incidence|Immunoproliferative cancers|2019|Persons|Western Australia|41
+Incidence|Immunoproliferative cancers|2019|Persons|South Australia|18
+Incidence|Immunoproliferative cancers|2019|Persons|Tasmania|14
+Incidence|Immunoproliferative cancers|2019|Persons|Australian Capital Territory|4
+Incidence|Immunoproliferative cancers|2019|Persons|Northern Territory|2
+Incidence|Immunoproliferative cancers|2019|Persons|Australia|394
+Incidence|Kaposi sarcoma|2019|Males|New South Wales|19
+Incidence|Kaposi sarcoma|2019|Males|Victoria|10
+Incidence|Kaposi sarcoma|2019|Males|Queensland|10
+Incidence|Kaposi sarcoma|2019|Males|Western Australia|4
+Incidence|Kaposi sarcoma|2019|Males|South Australia|2
+Incidence|Kaposi sarcoma|2019|Males|Tasmania|0
+Incidence|Kaposi sarcoma|2019|Males|Australian Capital Territory|0
+Incidence|Kaposi sarcoma|2019|Males|Northern Territory|0
+Incidence|Kaposi sarcoma|2019|Males|Australia|45
+Incidence|Kaposi sarcoma|2019|Females|New South Wales|2
+Incidence|Kaposi sarcoma|2019|Females|Victoria|4
+Incidence|Kaposi sarcoma|2019|Females|Queensland|1
+Incidence|Kaposi sarcoma|2019|Females|Western Australia|0
+Incidence|Kaposi sarcoma|2019|Females|South Australia|1
+Incidence|Kaposi sarcoma|2019|Females|Tasmania|0
+Incidence|Kaposi sarcoma|2019|Females|Australian Capital Territory|0
+Incidence|Kaposi sarcoma|2019|Females|Northern Territory|0
+Incidence|Kaposi sarcoma|2019|Females|Australia|8
+Incidence|Kaposi sarcoma|2019|Persons|New South Wales|21
+Incidence|Kaposi sarcoma|2019|Persons|Victoria|14
+Incidence|Kaposi sarcoma|2019|Persons|Queensland|11
+Incidence|Kaposi sarcoma|2019|Persons|Western Australia|4
+Incidence|Kaposi sarcoma|2019|Persons|South Australia|3
+Incidence|Kaposi sarcoma|2019|Persons|Tasmania|0
+Incidence|Kaposi sarcoma|2019|Persons|Australian Capital Territory|0
+Incidence|Kaposi sarcoma|2019|Persons|Northern Territory|0
+Incidence|Kaposi sarcoma|2019|Persons|Australia|53
+Incidence|Kidney cancer|2019|Males|New South Wales|796
+Incidence|Kidney cancer|2019|Males|Victoria|712
+Incidence|Kidney cancer|2019|Males|Queensland|545
+Incidence|Kidney cancer|2019|Males|Western Australia|274
+Incidence|Kidney cancer|2019|Males|South Australia|251
+Incidence|Kidney cancer|2019|Males|Tasmania|81
+Incidence|Kidney cancer|2019|Males|Australian Capital Territory|32
+Incidence|Kidney cancer|2019|Males|Northern Territory|16
+Incidence|Kidney cancer|2019|Males|Australia|2715
+Incidence|Kidney cancer|2019|Females|New South Wales|416
+Incidence|Kidney cancer|2019|Females|Victoria|344
+Incidence|Kidney cancer|2019|Females|Queensland|290
+Incidence|Kidney cancer|2019|Females|Western Australia|133
+Incidence|Kidney cancer|2019|Females|South Australia|106
+Incidence|Kidney cancer|2019|Females|Tasmania|36
+Incidence|Kidney cancer|2019|Females|Australian Capital Territory|15
+Incidence|Kidney cancer|2019|Females|Northern Territory|6
+Incidence|Kidney cancer|2019|Females|Australia|1346
+Incidence|Kidney cancer|2019|Persons|New South Wales|1212
+Incidence|Kidney cancer|2019|Persons|Victoria|1056
+Incidence|Kidney cancer|2019|Persons|Queensland|835
+Incidence|Kidney cancer|2019|Persons|Western Australia|407
+Incidence|Kidney cancer|2019|Persons|South Australia|357
+Incidence|Kidney cancer|2019|Persons|Tasmania|117
+Incidence|Kidney cancer|2019|Persons|Australian Capital Territory|47
+Incidence|Kidney cancer|2019|Persons|Northern Territory|22
+Incidence|Kidney cancer|2019|Persons|Australia|4061
+Incidence|Laryngeal cancer|2019|Males|New South Wales|185
+Incidence|Laryngeal cancer|2019|Males|Victoria|112
+Incidence|Laryngeal cancer|2019|Males|Queensland|117
+Incidence|Laryngeal cancer|2019|Males|Western Australia|48
+Incidence|Laryngeal cancer|2019|Males|South Australia|28
+Incidence|Laryngeal cancer|2019|Males|Tasmania|19
+Incidence|Laryngeal cancer|2019|Males|Australian Capital Territory|4
+Incidence|Laryngeal cancer|2019|Males|Northern Territory|9
+Incidence|Laryngeal cancer|2019|Males|Australia|529
+Incidence|Laryngeal cancer|2019|Females|New South Wales|26
+Incidence|Laryngeal cancer|2019|Females|Victoria|17
+Incidence|Laryngeal cancer|2019|Females|Queensland|10
+Incidence|Laryngeal cancer|2019|Females|Western Australia|9
+Incidence|Laryngeal cancer|2019|Females|South Australia|5
+Incidence|Laryngeal cancer|2019|Females|Tasmania|1
+Incidence|Laryngeal cancer|2019|Females|Australian Capital Territory|1
+Incidence|Laryngeal cancer|2019|Females|Northern Territory|2
+Incidence|Laryngeal cancer|2019|Females|Australia|69
+Incidence|Laryngeal cancer|2019|Persons|New South Wales|211
+Incidence|Laryngeal cancer|2019|Persons|Victoria|129
+Incidence|Laryngeal cancer|2019|Persons|Queensland|127
+Incidence|Laryngeal cancer|2019|Persons|Western Australia|57
+Incidence|Laryngeal cancer|2019|Persons|South Australia|33
+Incidence|Laryngeal cancer|2019|Persons|Tasmania|20
+Incidence|Laryngeal cancer|2019|Persons|Australian Capital Territory|5
+Incidence|Laryngeal cancer|2019|Persons|Northern Territory|10
+Incidence|Laryngeal cancer|2019|Persons|Australia|598
+Incidence|Leukaemia|2019|Males|New South Wales|937
+Incidence|Leukaemia|2019|Males|Victoria|747
+Incidence|Leukaemia|2019|Males|Queensland|562
+Incidence|Leukaemia|2019|Males|Western Australia|185
+Incidence|Leukaemia|2019|Males|South Australia|139
+Incidence|Leukaemia|2019|Males|Tasmania|61
+Incidence|Leukaemia|2019|Males|Australian Capital Territory|39
+Incidence|Leukaemia|2019|Males|Northern Territory|9
+Incidence|Leukaemia|2019|Males|Australia|2678
+Incidence|Leukaemia|2019|Females|New South Wales|622
+Incidence|Leukaemia|2019|Females|Victoria|478
+Incidence|Leukaemia|2019|Females|Queensland|380
+Incidence|Leukaemia|2019|Females|Western Australia|127
+Incidence|Leukaemia|2019|Females|South Australia|103
+Incidence|Leukaemia|2019|Females|Tasmania|38
+Incidence|Leukaemia|2019|Females|Australian Capital Territory|27
+Incidence|Leukaemia|2019|Females|Northern Territory|7
+Incidence|Leukaemia|2019|Females|Australia|1777
+Incidence|Leukaemia|2019|Persons|New South Wales|1559
+Incidence|Leukaemia|2019|Persons|Victoria|1225
+Incidence|Leukaemia|2019|Persons|Queensland|942
+Incidence|Leukaemia|2019|Persons|Western Australia|312
+Incidence|Leukaemia|2019|Persons|South Australia|242
+Incidence|Leukaemia|2019|Persons|Tasmania|99
+Incidence|Leukaemia|2019|Persons|Australian Capital Territory|65
+Incidence|Leukaemia|2019|Persons|Northern Territory|16
+Incidence|Leukaemia|2019|Persons|Australia|4455
+Incidence|Lip cancer|2019|Males|New South Wales|262
+Incidence|Lip cancer|2019|Males|Victoria|121
+Incidence|Lip cancer|2019|Males|Queensland|106
+Incidence|Lip cancer|2019|Males|Western Australia|55
+Incidence|Lip cancer|2019|Males|South Australia|49
+Incidence|Lip cancer|2019|Males|Tasmania|40
+Incidence|Lip cancer|2019|Males|Australian Capital Territory|6
+Incidence|Lip cancer|2019|Males|Northern Territory|3
+Incidence|Lip cancer|2019|Males|Australia|640
+Incidence|Lip cancer|2019|Females|New South Wales|92
+Incidence|Lip cancer|2019|Females|Victoria|43
+Incidence|Lip cancer|2019|Females|Queensland|22
+Incidence|Lip cancer|2019|Females|Western Australia|19
+Incidence|Lip cancer|2019|Females|South Australia|20
+Incidence|Lip cancer|2019|Females|Tasmania|11
+Incidence|Lip cancer|2019|Females|Australian Capital Territory|0
+Incidence|Lip cancer|2019|Females|Northern Territory|1
+Incidence|Lip cancer|2019|Females|Australia|209
+Incidence|Lip cancer|2019|Persons|New South Wales|354
+Incidence|Lip cancer|2019|Persons|Victoria|164
+Incidence|Lip cancer|2019|Persons|Queensland|128
+Incidence|Lip cancer|2019|Persons|Western Australia|74
+Incidence|Lip cancer|2019|Persons|South Australia|69
+Incidence|Lip cancer|2019|Persons|Tasmania|51
+Incidence|Lip cancer|2019|Persons|Australian Capital Territory|6
+Incidence|Lip cancer|2019|Persons|Northern Territory|4
+Incidence|Lip cancer|2019|Persons|Australia|849
+Incidence|Liver cancer|2019|Males|New South Wales|664
+Incidence|Liver cancer|2019|Males|Victoria|423
+Incidence|Liver cancer|2019|Males|Queensland|311
+Incidence|Liver cancer|2019|Males|Western Australia|124
+Incidence|Liver cancer|2019|Males|South Australia|128
+Incidence|Liver cancer|2019|Males|Tasmania|26
+Incidence|Liver cancer|2019|Males|Australian Capital Territory|22
+Incidence|Liver cancer|2019|Males|Northern Territory|22
+Incidence|Liver cancer|2019|Males|Australia|1713
+Incidence|Liver cancer|2019|Females|New South Wales|281
+Incidence|Liver cancer|2019|Females|Victoria|164
+Incidence|Liver cancer|2019|Females|Queensland|134
+Incidence|Liver cancer|2019|Females|Western Australia|51
+Incidence|Liver cancer|2019|Females|South Australia|54
+Incidence|Liver cancer|2019|Females|Tasmania|10
+Incidence|Liver cancer|2019|Females|Australian Capital Territory|7
+Incidence|Liver cancer|2019|Females|Northern Territory|8
+Incidence|Liver cancer|2019|Females|Australia|703
+Incidence|Liver cancer|2019|Persons|New South Wales|945
+Incidence|Liver cancer|2019|Persons|Victoria|587
+Incidence|Liver cancer|2019|Persons|Queensland|445
+Incidence|Liver cancer|2019|Persons|Western Australia|175
+Incidence|Liver cancer|2019|Persons|South Australia|182
+Incidence|Liver cancer|2019|Persons|Tasmania|36
+Incidence|Liver cancer|2019|Persons|Australian Capital Territory|29
+Incidence|Liver cancer|2019|Persons|Northern Territory|30
+Incidence|Liver cancer|2019|Persons|Australia|2416
+Incidence|Lung cancer|2019|Males|New South Wales|2364
+Incidence|Lung cancer|2019|Males|Victoria|1758
+Incidence|Lung cancer|2019|Males|Queensland|1582
+Incidence|Lung cancer|2019|Males|Western Australia|648
+Incidence|Lung cancer|2019|Males|South Australia|611
+Incidence|Lung cancer|2019|Males|Tasmania|177
+Incidence|Lung cancer|2019|Males|Australian Capital Territory|66
+Incidence|Lung cancer|2019|Males|Northern Territory|53
+Incidence|Lung cancer|2019|Males|Australia|7261
+Incidence|Lung cancer|2019|Females|New South Wales|1937
+Incidence|Lung cancer|2019|Females|Victoria|1470
+Incidence|Lung cancer|2019|Females|Queensland|1215
+Incidence|Lung cancer|2019|Females|Western Australia|539
+Incidence|Lung cancer|2019|Females|South Australia|463
+Incidence|Lung cancer|2019|Females|Tasmania|152
+Incidence|Lung cancer|2019|Females|Australian Capital Territory|66
+Incidence|Lung cancer|2019|Females|Northern Territory|32
+Incidence|Lung cancer|2019|Females|Australia|5879
+Incidence|Lung cancer|2019|Persons|New South Wales|4301
+Incidence|Lung cancer|2019|Persons|Victoria|3228
+Incidence|Lung cancer|2019|Persons|Queensland|2797
+Incidence|Lung cancer|2019|Persons|Western Australia|1187
+Incidence|Lung cancer|2019|Persons|South Australia|1074
+Incidence|Lung cancer|2019|Persons|Tasmania|329
+Incidence|Lung cancer|2019|Persons|Australian Capital Territory|133
+Incidence|Lung cancer|2019|Persons|Northern Territory|85
+Incidence|Lung cancer|2019|Persons|Australia|13140
+Incidence|Lymphoma|2019|Males|New South Wales|1211
+Incidence|Lymphoma|2019|Males|Victoria|970
+Incidence|Lymphoma|2019|Males|Queensland|722
+Incidence|Lymphoma|2019|Males|Western Australia|314
+Incidence|Lymphoma|2019|Males|South Australia|326
+Incidence|Lymphoma|2019|Males|Tasmania|93
+Incidence|Lymphoma|2019|Males|Australian Capital Territory|50
+Incidence|Lymphoma|2019|Males|Northern Territory|15
+Incidence|Lymphoma|2019|Males|Australia|3700
+Incidence|Lymphoma|2019|Females|New South Wales|879
+Incidence|Lymphoma|2019|Females|Victoria|764
+Incidence|Lymphoma|2019|Females|Queensland|544
+Incidence|Lymphoma|2019|Females|Western Australia|248
+Incidence|Lymphoma|2019|Females|South Australia|212
+Incidence|Lymphoma|2019|Females|Tasmania|62
+Incidence|Lymphoma|2019|Females|Australian Capital Territory|35
+Incidence|Lymphoma|2019|Females|Northern Territory|12
+Incidence|Lymphoma|2019|Females|Australia|2759
+Incidence|Lymphoma|2019|Persons|New South Wales|2090
+Incidence|Lymphoma|2019|Persons|Victoria|1734
+Incidence|Lymphoma|2019|Persons|Queensland|1266
+Incidence|Lymphoma|2019|Persons|Western Australia|562
+Incidence|Lymphoma|2019|Persons|South Australia|538
+Incidence|Lymphoma|2019|Persons|Tasmania|155
+Incidence|Lymphoma|2019|Persons|Australian Capital Territory|85
+Incidence|Lymphoma|2019|Persons|Northern Territory|27
+Incidence|Lymphoma|2019|Persons|Australia|6459
+Incidence|Major salivary glands (cancer of the)|2019|Males|New South Wales|67
+Incidence|Major salivary glands (cancer of the)|2019|Males|Victoria|56
+Incidence|Major salivary glands (cancer of the)|2019|Males|Queensland|30
+Incidence|Major salivary glands (cancer of the)|2019|Males|Western Australia|19
+Incidence|Major salivary glands (cancer of the)|2019|Males|South Australia|16
+Incidence|Major salivary glands (cancer of the)|2019|Males|Tasmania|4
+Incidence|Major salivary glands (cancer of the)|2019|Males|Australian Capital Territory|2
+Incidence|Major salivary glands (cancer of the)|2019|Males|Northern Territory|3
+Incidence|Major salivary glands (cancer of the)|2019|Males|Australia|198
+Incidence|Major salivary glands (cancer of the)|2019|Females|New South Wales|61
+Incidence|Major salivary glands (cancer of the)|2019|Females|Victoria|41
+Incidence|Major salivary glands (cancer of the)|2019|Females|Queensland|32
+Incidence|Major salivary glands (cancer of the)|2019|Females|Western Australia|15
+Incidence|Major salivary glands (cancer of the)|2019|Females|South Australia|16
+Incidence|Major salivary glands (cancer of the)|2019|Females|Tasmania|6
+Incidence|Major salivary glands (cancer of the)|2019|Females|Australian Capital Territory|2
+Incidence|Major salivary glands (cancer of the)|2019|Females|Northern Territory|1
+Incidence|Major salivary glands (cancer of the)|2019|Females|Australia|173
+Incidence|Major salivary glands (cancer of the)|2019|Persons|New South Wales|128
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Victoria|97
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Queensland|62
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Western Australia|34
+Incidence|Major salivary glands (cancer of the)|2019|Persons|South Australia|32
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Tasmania|10
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Australian Capital Territory|4
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Northern Territory|4
+Incidence|Major salivary glands (cancer of the)|2019|Persons|Australia|371
+Incidence|Melanoma of the skin|2019|Males|New South Wales|3003
+Incidence|Melanoma of the skin|2019|Males|Victoria|1631
+Incidence|Melanoma of the skin|2019|Males|Queensland|2602
+Incidence|Melanoma of the skin|2019|Males|Western Australia|949
+Incidence|Melanoma of the skin|2019|Males|South Australia|546
+Incidence|Melanoma of the skin|2019|Males|Tasmania|224
+Incidence|Melanoma of the skin|2019|Males|Australian Capital Territory|120
+Incidence|Melanoma of the skin|2019|Males|Northern Territory|55
+Incidence|Melanoma of the skin|2019|Males|Australia|9134
+Incidence|Melanoma of the skin|2019|Females|New South Wales|2075
+Incidence|Melanoma of the skin|2019|Females|Victoria|1201
+Incidence|Melanoma of the skin|2019|Females|Queensland|1845
+Incidence|Melanoma of the skin|2019|Females|Western Australia|680
+Incidence|Melanoma of the skin|2019|Females|South Australia|358
+Incidence|Melanoma of the skin|2019|Females|Tasmania|188
+Incidence|Melanoma of the skin|2019|Females|Australian Capital Territory|86
+Incidence|Melanoma of the skin|2019|Females|Northern Territory|33
+Incidence|Melanoma of the skin|2019|Females|Australia|6494
+Incidence|Melanoma of the skin|2019|Persons|New South Wales|5078
+Incidence|Melanoma of the skin|2019|Persons|Victoria|2832
+Incidence|Melanoma of the skin|2019|Persons|Queensland|4447
+Incidence|Melanoma of the skin|2019|Persons|Western Australia|1629
+Incidence|Melanoma of the skin|2019|Persons|South Australia|904
+Incidence|Melanoma of the skin|2019|Persons|Tasmania|412
+Incidence|Melanoma of the skin|2019|Persons|Australian Capital Territory|205
+Incidence|Melanoma of the skin|2019|Persons|Northern Territory|88
+Incidence|Melanoma of the skin|2019|Persons|Australia|15628
+Incidence|Mesothelioma|2019|Males|New South Wales|206
+Incidence|Mesothelioma|2019|Males|Victoria|131
+Incidence|Mesothelioma|2019|Males|Queensland|126
+Incidence|Mesothelioma|2019|Males|Western Australia|89
+Incidence|Mesothelioma|2019|Males|South Australia|51
+Incidence|Mesothelioma|2019|Males|Tasmania|18
+Incidence|Mesothelioma|2019|Males|Australian Capital Territory|8
+Incidence|Mesothelioma|2019|Males|Northern Territory|2
+Incidence|Mesothelioma|2019|Males|Australia|628
+Incidence|Mesothelioma|2019|Females|New South Wales|43
+Incidence|Mesothelioma|2019|Females|Victoria|29
+Incidence|Mesothelioma|2019|Females|Queensland|32
+Incidence|Mesothelioma|2019|Females|Western Australia|27
+Incidence|Mesothelioma|2019|Females|South Australia|13
+Incidence|Mesothelioma|2019|Females|Tasmania|3
+Incidence|Mesothelioma|2019|Females|Australian Capital Territory|1
+Incidence|Mesothelioma|2019|Females|Northern Territory|0
+Incidence|Mesothelioma|2019|Females|Australia|148
+Incidence|Mesothelioma|2019|Persons|New South Wales|249
+Incidence|Mesothelioma|2019|Persons|Victoria|160
+Incidence|Mesothelioma|2019|Persons|Queensland|158
+Incidence|Mesothelioma|2019|Persons|Western Australia|116
+Incidence|Mesothelioma|2019|Persons|South Australia|64
+Incidence|Mesothelioma|2019|Persons|Tasmania|21
+Incidence|Mesothelioma|2019|Persons|Australian Capital Territory|9
+Incidence|Mesothelioma|2019|Persons|Northern Territory|2
+Incidence|Mesothelioma|2019|Persons|Australia|776
+Incidence|Mouth cancer|2019|Males|New South Wales|141
+Incidence|Mouth cancer|2019|Males|Victoria|78
+Incidence|Mouth cancer|2019|Males|Queensland|97
+Incidence|Mouth cancer|2019|Males|Western Australia|40
+Incidence|Mouth cancer|2019|Males|South Australia|27
+Incidence|Mouth cancer|2019|Males|Tasmania|12
+Incidence|Mouth cancer|2019|Males|Australian Capital Territory|4
+Incidence|Mouth cancer|2019|Males|Northern Territory|4
+Incidence|Mouth cancer|2019|Males|Australia|404
+Incidence|Mouth cancer|2019|Females|New South Wales|92
+Incidence|Mouth cancer|2019|Females|Victoria|57
+Incidence|Mouth cancer|2019|Females|Queensland|57
+Incidence|Mouth cancer|2019|Females|Western Australia|22
+Incidence|Mouth cancer|2019|Females|South Australia|26
+Incidence|Mouth cancer|2019|Females|Tasmania|10
+Incidence|Mouth cancer|2019|Females|Australian Capital Territory|5
+Incidence|Mouth cancer|2019|Females|Northern Territory|2
+Incidence|Mouth cancer|2019|Females|Australia|281
+Incidence|Mouth cancer|2019|Persons|New South Wales|233
+Incidence|Mouth cancer|2019|Persons|Victoria|136
+Incidence|Mouth cancer|2019|Persons|Queensland|154
+Incidence|Mouth cancer|2019|Persons|Western Australia|62
+Incidence|Mouth cancer|2019|Persons|South Australia|53
+Incidence|Mouth cancer|2019|Persons|Tasmania|22
+Incidence|Mouth cancer|2019|Persons|Australian Capital Territory|9
+Incidence|Mouth cancer|2019|Persons|Northern Territory|7
+Incidence|Mouth cancer|2019|Persons|Australia|686
+Incidence|Multiple myeloma|2019|Males|New South Wales|380
+Incidence|Multiple myeloma|2019|Males|Victoria|347
+Incidence|Multiple myeloma|2019|Males|Queensland|254
+Incidence|Multiple myeloma|2019|Males|Western Australia|96
+Incidence|Multiple myeloma|2019|Males|South Australia|110
+Incidence|Multiple myeloma|2019|Males|Tasmania|34
+Incidence|Multiple myeloma|2019|Males|Australian Capital Territory|15
+Incidence|Multiple myeloma|2019|Males|Northern Territory|5
+Incidence|Multiple myeloma|2019|Males|Australia|1244
+Incidence|Multiple myeloma|2019|Females|New South Wales|293
+Incidence|Multiple myeloma|2019|Females|Victoria|249
+Incidence|Multiple myeloma|2019|Females|Queensland|208
+Incidence|Multiple myeloma|2019|Females|Western Australia|69
+Incidence|Multiple myeloma|2019|Females|South Australia|61
+Incidence|Multiple myeloma|2019|Females|Tasmania|25
+Incidence|Multiple myeloma|2019|Females|Australian Capital Territory|10
+Incidence|Multiple myeloma|2019|Females|Northern Territory|3
+Incidence|Multiple myeloma|2019|Females|Australia|919
+Incidence|Multiple myeloma|2019|Persons|New South Wales|673
+Incidence|Multiple myeloma|2019|Persons|Victoria|596
+Incidence|Multiple myeloma|2019|Persons|Queensland|462
+Incidence|Multiple myeloma|2019|Persons|Western Australia|165
+Incidence|Multiple myeloma|2019|Persons|South Australia|171
+Incidence|Multiple myeloma|2019|Persons|Tasmania|59
+Incidence|Multiple myeloma|2019|Persons|Australian Capital Territory|24
+Incidence|Multiple myeloma|2019|Persons|Northern Territory|8
+Incidence|Multiple myeloma|2019|Persons|Australia|2163
+Incidence|Myelodysplastic syndromes|2019|Males|New South Wales|321
+Incidence|Myelodysplastic syndromes|2019|Males|Victoria|280
+Incidence|Myelodysplastic syndromes|2019|Males|Queensland|234
+Incidence|Myelodysplastic syndromes|2019|Males|Western Australia|45
+Incidence|Myelodysplastic syndromes|2019|Males|South Australia|63
+Incidence|Myelodysplastic syndromes|2019|Males|Tasmania|26
+Incidence|Myelodysplastic syndromes|2019|Males|Australian Capital Territory|12
+Incidence|Myelodysplastic syndromes|2019|Males|Northern Territory|2
+Incidence|Myelodysplastic syndromes|2019|Males|Australia|986
+Incidence|Myelodysplastic syndromes|2019|Females|New South Wales|194
+Incidence|Myelodysplastic syndromes|2019|Females|Victoria|173
+Incidence|Myelodysplastic syndromes|2019|Females|Queensland|118
+Incidence|Myelodysplastic syndromes|2019|Females|Western Australia|25
+Incidence|Myelodysplastic syndromes|2019|Females|South Australia|46
+Incidence|Myelodysplastic syndromes|2019|Females|Tasmania|11
+Incidence|Myelodysplastic syndromes|2019|Females|Australian Capital Territory|6
+Incidence|Myelodysplastic syndromes|2019|Females|Northern Territory|2
+Incidence|Myelodysplastic syndromes|2019|Females|Australia|573
+Incidence|Myelodysplastic syndromes|2019|Persons|New South Wales|515
+Incidence|Myelodysplastic syndromes|2019|Persons|Victoria|453
+Incidence|Myelodysplastic syndromes|2019|Persons|Queensland|352
+Incidence|Myelodysplastic syndromes|2019|Persons|Western Australia|70
+Incidence|Myelodysplastic syndromes|2019|Persons|South Australia|109
+Incidence|Myelodysplastic syndromes|2019|Persons|Tasmania|37
+Incidence|Myelodysplastic syndromes|2019|Persons|Australian Capital Territory|19
+Incidence|Myelodysplastic syndromes|2019|Persons|Northern Territory|4
+Incidence|Myelodysplastic syndromes|2019|Persons|Australia|1559
+Incidence|Myeloproliferative neoplasms|2019|Males|New South Wales|338
+Incidence|Myeloproliferative neoplasms|2019|Males|Victoria|249
+Incidence|Myeloproliferative neoplasms|2019|Males|Queensland|227
+Incidence|Myeloproliferative neoplasms|2019|Males|Western Australia|53
+Incidence|Myeloproliferative neoplasms|2019|Males|South Australia|80
+Incidence|Myeloproliferative neoplasms|2019|Males|Tasmania|13
+Incidence|Myeloproliferative neoplasms|2019|Males|Australian Capital Territory|14
+Incidence|Myeloproliferative neoplasms|2019|Males|Northern Territory|7
+Incidence|Myeloproliferative neoplasms|2019|Males|Australia|982
+Incidence|Myeloproliferative neoplasms|2019|Females|New South Wales|236
+Incidence|Myeloproliferative neoplasms|2019|Females|Victoria|253
+Incidence|Myeloproliferative neoplasms|2019|Females|Queensland|220
+Incidence|Myeloproliferative neoplasms|2019|Females|Western Australia|54
+Incidence|Myeloproliferative neoplasms|2019|Females|South Australia|45
+Incidence|Myeloproliferative neoplasms|2019|Females|Tasmania|6
+Incidence|Myeloproliferative neoplasms|2019|Females|Australian Capital Territory|10
+Incidence|Myeloproliferative neoplasms|2019|Females|Northern Territory|5
+Incidence|Myeloproliferative neoplasms|2019|Females|Australia|828
+Incidence|Myeloproliferative neoplasms|2019|Persons|New South Wales|574
+Incidence|Myeloproliferative neoplasms|2019|Persons|Victoria|502
+Incidence|Myeloproliferative neoplasms|2019|Persons|Queensland|447
+Incidence|Myeloproliferative neoplasms|2019|Persons|Western Australia|107
+Incidence|Myeloproliferative neoplasms|2019|Persons|South Australia|125
+Incidence|Myeloproliferative neoplasms|2019|Persons|Tasmania|19
+Incidence|Myeloproliferative neoplasms|2019|Persons|Australian Capital Territory|24
+Incidence|Myeloproliferative neoplasms|2019|Persons|Northern Territory|11
+Incidence|Myeloproliferative neoplasms|2019|Persons|Australia|1810
+Incidence|Nasopharyngeal cancer|2019|Males|New South Wales|45
+Incidence|Nasopharyngeal cancer|2019|Males|Victoria|28
+Incidence|Nasopharyngeal cancer|2019|Males|Queensland|15
+Incidence|Nasopharyngeal cancer|2019|Males|Western Australia|13
+Incidence|Nasopharyngeal cancer|2019|Males|South Australia|7
+Incidence|Nasopharyngeal cancer|2019|Males|Tasmania|3
+Incidence|Nasopharyngeal cancer|2019|Males|Australian Capital Territory|2
+Incidence|Nasopharyngeal cancer|2019|Males|Northern Territory|1
+Incidence|Nasopharyngeal cancer|2019|Males|Australia|115
+Incidence|Nasopharyngeal cancer|2019|Females|New South Wales|19
+Incidence|Nasopharyngeal cancer|2019|Females|Victoria|19
+Incidence|Nasopharyngeal cancer|2019|Females|Queensland|9
+Incidence|Nasopharyngeal cancer|2019|Females|Western Australia|1
+Incidence|Nasopharyngeal cancer|2019|Females|South Australia|1
+Incidence|Nasopharyngeal cancer|2019|Females|Tasmania|3
+Incidence|Nasopharyngeal cancer|2019|Females|Australian Capital Territory|0
+Incidence|Nasopharyngeal cancer|2019|Females|Northern Territory|0
+Incidence|Nasopharyngeal cancer|2019|Females|Australia|54
+Incidence|Nasopharyngeal cancer|2019|Persons|New South Wales|64
+Incidence|Nasopharyngeal cancer|2019|Persons|Victoria|47
+Incidence|Nasopharyngeal cancer|2019|Persons|Queensland|24
+Incidence|Nasopharyngeal cancer|2019|Persons|Western Australia|14
+Incidence|Nasopharyngeal cancer|2019|Persons|South Australia|8
+Incidence|Nasopharyngeal cancer|2019|Persons|Tasmania|6
+Incidence|Nasopharyngeal cancer|2019|Persons|Australian Capital Territory|2
+Incidence|Nasopharyngeal cancer|2019|Persons|Northern Territory|2
+Incidence|Nasopharyngeal cancer|2019|Persons|Australia|169
+Incidence|Neuroendocrine neoplasms|2019|Males|New South Wales|845
+Incidence|Neuroendocrine neoplasms|2019|Males|Victoria|547
+Incidence|Neuroendocrine neoplasms|2019|Males|Queensland|604
+Incidence|Neuroendocrine neoplasms|2019|Males|Western Australia|246
+Incidence|Neuroendocrine neoplasms|2019|Males|South Australia|192
+Incidence|Neuroendocrine neoplasms|2019|Males|Tasmania|54
+Incidence|Neuroendocrine neoplasms|2019|Males|Australian Capital Territory|26
+Incidence|Neuroendocrine neoplasms|2019|Males|Northern Territory|14
+Incidence|Neuroendocrine neoplasms|2019|Males|Australia|2518
+Incidence|Neuroendocrine neoplasms|2019|Females|New South Wales|714
+Incidence|Neuroendocrine neoplasms|2019|Females|Victoria|522
+Incidence|Neuroendocrine neoplasms|2019|Females|Queensland|484
+Incidence|Neuroendocrine neoplasms|2019|Females|Western Australia|182
+Incidence|Neuroendocrine neoplasms|2019|Females|South Australia|154
+Incidence|Neuroendocrine neoplasms|2019|Females|Tasmania|60
+Incidence|Neuroendocrine neoplasms|2019|Females|Australian Capital Territory|25
+Incidence|Neuroendocrine neoplasms|2019|Females|Northern Territory|9
+Incidence|Neuroendocrine neoplasms|2019|Females|Australia|2159
+Incidence|Neuroendocrine neoplasms|2019|Persons|New South Wales|1559
+Incidence|Neuroendocrine neoplasms|2019|Persons|Victoria|1069
+Incidence|Neuroendocrine neoplasms|2019|Persons|Queensland|1088
+Incidence|Neuroendocrine neoplasms|2019|Persons|Western Australia|428
+Incidence|Neuroendocrine neoplasms|2019|Persons|South Australia|346
+Incidence|Neuroendocrine neoplasms|2019|Persons|Tasmania|114
+Incidence|Neuroendocrine neoplasms|2019|Persons|Australian Capital Territory|51
+Incidence|Neuroendocrine neoplasms|2019|Persons|Northern Territory|23
+Incidence|Neuroendocrine neoplasms|2019|Persons|Australia|4677
+Incidence|Non-Hodgkin lymphoma|2019|Males|New South Wales|1078
+Incidence|Non-Hodgkin lymphoma|2019|Males|Victoria|862
+Incidence|Non-Hodgkin lymphoma|2019|Males|Queensland|651
+Incidence|Non-Hodgkin lymphoma|2019|Males|Western Australia|289
+Incidence|Non-Hodgkin lymphoma|2019|Males|South Australia|289
+Incidence|Non-Hodgkin lymphoma|2019|Males|Tasmania|87
+Incidence|Non-Hodgkin lymphoma|2019|Males|Australian Capital Territory|44
+Incidence|Non-Hodgkin lymphoma|2019|Males|Northern Territory|14
+Incidence|Non-Hodgkin lymphoma|2019|Males|Australia|3311
+Incidence|Non-Hodgkin lymphoma|2019|Females|New South Wales|771
+Incidence|Non-Hodgkin lymphoma|2019|Females|Victoria|666
+Incidence|Non-Hodgkin lymphoma|2019|Females|Queensland|478
+Incidence|Non-Hodgkin lymphoma|2019|Females|Western Australia|221
+Incidence|Non-Hodgkin lymphoma|2019|Females|South Australia|202
+Incidence|Non-Hodgkin lymphoma|2019|Females|Tasmania|57
+Incidence|Non-Hodgkin lymphoma|2019|Females|Australian Capital Territory|28
+Incidence|Non-Hodgkin lymphoma|2019|Females|Northern Territory|10
+Incidence|Non-Hodgkin lymphoma|2019|Females|Australia|2432
+Incidence|Non-Hodgkin lymphoma|2019|Persons|New South Wales|1849
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Victoria|1528
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Queensland|1129
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Western Australia|510
+Incidence|Non-Hodgkin lymphoma|2019|Persons|South Australia|491
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Tasmania|144
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Australian Capital Territory|72
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Northern Territory|24
+Incidence|Non-Hodgkin lymphoma|2019|Persons|Australia|5743
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|New South Wales|343
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Victoria|154
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Queensland|210
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Western Australia|86
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|South Australia|32
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Tasmania|15
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Australian Capital Territory|6
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Northern Territory|2
+Incidence|Non-melanoma skin cancer (rare types)|2019|Males|Australia|849
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|New South Wales|157
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Victoria|86
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Queensland|111
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Western Australia|43
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|South Australia|13
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Tasmania|7
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Australian Capital Territory|2
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Northern Territory|1
+Incidence|Non-melanoma skin cancer (rare types)|2019|Females|Australia|420
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|New South Wales|500
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Victoria|240
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Queensland|321
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Western Australia|129
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|South Australia|45
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Tasmania|22
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Australian Capital Territory|8
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Northern Territory|3
+Incidence|Non-melanoma skin cancer (rare types)|2019|Persons|Australia|1269
+Incidence|Oesophageal cancer|2019|Males|New South Wales|361
+Incidence|Oesophageal cancer|2019|Males|Victoria|273
+Incidence|Oesophageal cancer|2019|Males|Queensland|264
+Incidence|Oesophageal cancer|2019|Males|Western Australia|138
+Incidence|Oesophageal cancer|2019|Males|South Australia|104
+Incidence|Oesophageal cancer|2019|Males|Tasmania|45
+Incidence|Oesophageal cancer|2019|Males|Australian Capital Territory|16
+Incidence|Oesophageal cancer|2019|Males|Northern Territory|11
+Incidence|Oesophageal cancer|2019|Males|Australia|1224
+Incidence|Oesophageal cancer|2019|Females|New South Wales|147
+Incidence|Oesophageal cancer|2019|Females|Victoria|121
+Incidence|Oesophageal cancer|2019|Females|Queensland|88
+Incidence|Oesophageal cancer|2019|Females|Western Australia|33
+Incidence|Oesophageal cancer|2019|Females|South Australia|34
+Incidence|Oesophageal cancer|2019|Females|Tasmania|9
+Incidence|Oesophageal cancer|2019|Females|Australian Capital Territory|6
+Incidence|Oesophageal cancer|2019|Females|Northern Territory|2
+Incidence|Oesophageal cancer|2019|Females|Australia|441
+Incidence|Oesophageal cancer|2019|Persons|New South Wales|508
+Incidence|Oesophageal cancer|2019|Persons|Victoria|394
+Incidence|Oesophageal cancer|2019|Persons|Queensland|352
+Incidence|Oesophageal cancer|2019|Persons|Western Australia|171
+Incidence|Oesophageal cancer|2019|Persons|South Australia|138
+Incidence|Oesophageal cancer|2019|Persons|Tasmania|54
+Incidence|Oesophageal cancer|2019|Persons|Australian Capital Territory|22
+Incidence|Oesophageal cancer|2019|Persons|Northern Territory|13
+Incidence|Oesophageal cancer|2019|Persons|Australia|1665
+Incidence|Oral cancer|2019|Males|New South Wales|919
+Incidence|Oral cancer|2019|Males|Victoria|605
+Incidence|Oral cancer|2019|Males|Queensland|623
+Incidence|Oral cancer|2019|Males|Western Australia|245
+Incidence|Oral cancer|2019|Males|South Australia|197
+Incidence|Oral cancer|2019|Males|Tasmania|87
+Incidence|Oral cancer|2019|Males|Australian Capital Territory|27
+Incidence|Oral cancer|2019|Males|Northern Territory|27
+Incidence|Oral cancer|2019|Males|Australia|2729
+Incidence|Oral cancer|2019|Females|New South Wales|402
+Incidence|Oral cancer|2019|Females|Victoria|237
+Incidence|Oral cancer|2019|Females|Queensland|211
+Incidence|Oral cancer|2019|Females|Western Australia|97
+Incidence|Oral cancer|2019|Females|South Australia|90
+Incidence|Oral cancer|2019|Females|Tasmania|38
+Incidence|Oral cancer|2019|Females|Australian Capital Territory|13
+Incidence|Oral cancer|2019|Females|Northern Territory|7
+Incidence|Oral cancer|2019|Females|Australia|1103
+Incidence|Oral cancer|2019|Persons|New South Wales|1321
+Incidence|Oral cancer|2019|Persons|Victoria|843
+Incidence|Oral cancer|2019|Persons|Queensland|834
+Incidence|Oral cancer|2019|Persons|Western Australia|342
+Incidence|Oral cancer|2019|Persons|South Australia|287
+Incidence|Oral cancer|2019|Persons|Tasmania|125
+Incidence|Oral cancer|2019|Persons|Australian Capital Territory|40
+Incidence|Oral cancer|2019|Persons|Northern Territory|34
+Incidence|Oral cancer|2019|Persons|Australia|3833
+Incidence|Oropharyngeal cancer|2019|Males|New South Wales|215
+Incidence|Oropharyngeal cancer|2019|Males|Victoria|152
+Incidence|Oropharyngeal cancer|2019|Males|Queensland|193
+Incidence|Oropharyngeal cancer|2019|Males|Western Australia|61
+Incidence|Oropharyngeal cancer|2019|Males|South Australia|52
+Incidence|Oropharyngeal cancer|2019|Males|Tasmania|12
+Incidence|Oropharyngeal cancer|2019|Males|Australian Capital Territory|5
+Incidence|Oropharyngeal cancer|2019|Males|Northern Territory|10
+Incidence|Oropharyngeal cancer|2019|Males|Australia|702
+Incidence|Oropharyngeal cancer|2019|Females|New South Wales|48
+Incidence|Oropharyngeal cancer|2019|Females|Victoria|34
+Incidence|Oropharyngeal cancer|2019|Females|Queensland|39
+Incidence|Oropharyngeal cancer|2019|Females|Western Australia|14
+Incidence|Oropharyngeal cancer|2019|Females|South Australia|5
+Incidence|Oropharyngeal cancer|2019|Females|Tasmania|4
+Incidence|Oropharyngeal cancer|2019|Females|Australian Capital Territory|1
+Incidence|Oropharyngeal cancer|2019|Females|Northern Territory|1
+Incidence|Oropharyngeal cancer|2019|Females|Australia|144
+Incidence|Oropharyngeal cancer|2019|Persons|New South Wales|263
+Incidence|Oropharyngeal cancer|2019|Persons|Victoria|186
+Incidence|Oropharyngeal cancer|2019|Persons|Queensland|232
+Incidence|Oropharyngeal cancer|2019|Persons|Western Australia|75
+Incidence|Oropharyngeal cancer|2019|Persons|South Australia|57
+Incidence|Oropharyngeal cancer|2019|Persons|Tasmania|16
+Incidence|Oropharyngeal cancer|2019|Persons|Australian Capital Territory|6
+Incidence|Oropharyngeal cancer|2019|Persons|Northern Territory|11
+Incidence|Oropharyngeal cancer|2019|Persons|Australia|846
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|New South Wales|65
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Victoria|64
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Queensland|19
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Western Australia|0
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|South Australia|12
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Tasmania|6
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Australian Capital Territory|2
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Northern Territory|1
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Males|Australia|169
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|New South Wales|43
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Victoria|55
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Queensland|19
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Western Australia|0
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|South Australia|26
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Tasmania|10
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Australian Capital Territory|3
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Northern Territory|0
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Females|Australia|155
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|New South Wales|108
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Victoria|119
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Queensland|38
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Western Australia|0
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|South Australia|38
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Tasmania|16
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Australian Capital Territory|4
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Northern Territory|1
+Incidence|Other and ill-defined digestive organs (cancer of)|2019|Persons|Australia|324
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|New South Wales|39
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Victoria|45
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Queensland|3
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Western Australia|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|South Australia|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Tasmania|1
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Australian Capital Territory|1
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Northern Territory|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Males|Australia|91
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|New South Wales|31
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Victoria|28
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Queensland|4
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Western Australia|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|South Australia|1
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Tasmania|1
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Australian Capital Territory|1
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Northern Territory|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Females|Australia|67
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|New South Wales|70
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Victoria|73
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Queensland|7
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Western Australia|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|South Australia|1
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Tasmania|2
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Australian Capital Territory|2
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Northern Territory|0
+Incidence|Other and ill-defined sites (cancer of)|2019|Persons|Australia|158
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|New South Wales|31
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Victoria|42
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Queensland|27
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Western Australia|5
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|South Australia|7
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Tasmania|3
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Australian Capital Territory|1
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Northern Territory|0
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Females|Australia|116
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|New South Wales|31
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Victoria|42
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Queensland|27
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Western Australia|5
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|South Australia|7
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Tasmania|3
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Australian Capital Territory|1
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Northern Territory|0
+Incidence|Other female genital organs excluding serous carcinomas of the fallopian tube (cancer of)|2019|Persons|Australia|116
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|New South Wales|551
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Victoria|435
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Queensland|323
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Western Australia|137
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|South Australia|105
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Tasmania|40
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Australian Capital Territory|24
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Northern Territory|7
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Females|Australia|1625
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|New South Wales|551
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Victoria|435
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Queensland|323
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Western Australia|137
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|South Australia|105
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Tasmania|40
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Australian Capital Territory|24
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Northern Territory|7
+Incidence|Ovarian cancer and serous carcinomas of the fallopian tube|2019|Persons|Australia|1625
+Incidence|Pancreatic cancer|2019|Males|New South Wales|658
+Incidence|Pancreatic cancer|2019|Males|Victoria|495
+Incidence|Pancreatic cancer|2019|Males|Queensland|370
+Incidence|Pancreatic cancer|2019|Males|Western Australia|162
+Incidence|Pancreatic cancer|2019|Males|South Australia|164
+Incidence|Pancreatic cancer|2019|Males|Tasmania|59
+Incidence|Pancreatic cancer|2019|Males|Australian Capital Territory|27
+Incidence|Pancreatic cancer|2019|Males|Northern Territory|12
+Incidence|Pancreatic cancer|2019|Males|Australia|1952
+Incidence|Pancreatic cancer|2019|Females|New South Wales|608
+Incidence|Pancreatic cancer|2019|Females|Victoria|461
+Incidence|Pancreatic cancer|2019|Females|Queensland|347
+Incidence|Pancreatic cancer|2019|Females|Western Australia|144
+Incidence|Pancreatic cancer|2019|Females|South Australia|158
+Incidence|Pancreatic cancer|2019|Females|Tasmania|43
+Incidence|Pancreatic cancer|2019|Females|Australian Capital Territory|24
+Incidence|Pancreatic cancer|2019|Females|Northern Territory|7
+Incidence|Pancreatic cancer|2019|Females|Australia|1799
+Incidence|Pancreatic cancer|2019|Persons|New South Wales|1266
+Incidence|Pancreatic cancer|2019|Persons|Victoria|956
+Incidence|Pancreatic cancer|2019|Persons|Queensland|717
+Incidence|Pancreatic cancer|2019|Persons|Western Australia|306
+Incidence|Pancreatic cancer|2019|Persons|South Australia|322
+Incidence|Pancreatic cancer|2019|Persons|Tasmania|102
+Incidence|Pancreatic cancer|2019|Persons|Australian Capital Territory|51
+Incidence|Pancreatic cancer|2019|Persons|Northern Territory|18
+Incidence|Pancreatic cancer|2019|Persons|Australia|3751
+Incidence|Parotid gland cancer|2019|Males|New South Wales|49
+Incidence|Parotid gland cancer|2019|Males|Victoria|48
+Incidence|Parotid gland cancer|2019|Males|Queensland|15
+Incidence|Parotid gland cancer|2019|Males|Western Australia|12
+Incidence|Parotid gland cancer|2019|Males|South Australia|15
+Incidence|Parotid gland cancer|2019|Males|Tasmania|4
+Incidence|Parotid gland cancer|2019|Males|Australian Capital Territory|2
+Incidence|Parotid gland cancer|2019|Males|Northern Territory|2
+Incidence|Parotid gland cancer|2019|Males|Australia|148
+Incidence|Parotid gland cancer|2019|Females|New South Wales|55
+Incidence|Parotid gland cancer|2019|Females|Victoria|35
+Incidence|Parotid gland cancer|2019|Females|Queensland|27
+Incidence|Parotid gland cancer|2019|Females|Western Australia|11
+Incidence|Parotid gland cancer|2019|Females|South Australia|11
+Incidence|Parotid gland cancer|2019|Females|Tasmania|4
+Incidence|Parotid gland cancer|2019|Females|Australian Capital Territory|2
+Incidence|Parotid gland cancer|2019|Females|Northern Territory|1
+Incidence|Parotid gland cancer|2019|Females|Australia|144
+Incidence|Parotid gland cancer|2019|Persons|New South Wales|104
+Incidence|Parotid gland cancer|2019|Persons|Victoria|83
+Incidence|Parotid gland cancer|2019|Persons|Queensland|42
+Incidence|Parotid gland cancer|2019|Persons|Western Australia|23
+Incidence|Parotid gland cancer|2019|Persons|South Australia|26
+Incidence|Parotid gland cancer|2019|Persons|Tasmania|8
+Incidence|Parotid gland cancer|2019|Persons|Australian Capital Territory|4
+Incidence|Parotid gland cancer|2019|Persons|Northern Territory|3
+Incidence|Parotid gland cancer|2019|Persons|Australia|292
+Incidence|Penile cancer|2019|Males|New South Wales|36
+Incidence|Penile cancer|2019|Males|Victoria|27
+Incidence|Penile cancer|2019|Males|Queensland|28
+Incidence|Penile cancer|2019|Males|Western Australia|15
+Incidence|Penile cancer|2019|Males|South Australia|11
+Incidence|Penile cancer|2019|Males|Tasmania|3
+Incidence|Penile cancer|2019|Males|Australian Capital Territory|1
+Incidence|Penile cancer|2019|Males|Northern Territory|1
+Incidence|Penile cancer|2019|Males|Australia|122
+Incidence|Penile cancer|2019|Persons|New South Wales|36
+Incidence|Penile cancer|2019|Persons|Victoria|27
+Incidence|Penile cancer|2019|Persons|Queensland|28
+Incidence|Penile cancer|2019|Persons|Western Australia|15
+Incidence|Penile cancer|2019|Persons|South Australia|11
+Incidence|Penile cancer|2019|Persons|Tasmania|3
+Incidence|Penile cancer|2019|Persons|Australian Capital Territory|1
+Incidence|Penile cancer|2019|Persons|Northern Territory|1
+Incidence|Penile cancer|2019|Persons|Australia|122
+Incidence|Prostate cancer|2019|Males|New South Wales|6859
+Incidence|Prostate cancer|2019|Males|Victoria|5979
+Incidence|Prostate cancer|2019|Males|Queensland|4837
+Incidence|Prostate cancer|2019|Males|Western Australia|2300
+Incidence|Prostate cancer|2019|Males|South Australia|2024
+Incidence|Prostate cancer|2019|Males|Tasmania|562
+Incidence|Prostate cancer|2019|Males|Australian Capital Territory|294
+Incidence|Prostate cancer|2019|Males|Northern Territory|94
+Incidence|Prostate cancer|2019|Males|Australia|23027
+Incidence|Prostate cancer|2019|Persons|New South Wales|6859
+Incidence|Prostate cancer|2019|Persons|Victoria|5979
+Incidence|Prostate cancer|2019|Persons|Queensland|4837
+Incidence|Prostate cancer|2019|Persons|Western Australia|2300
+Incidence|Prostate cancer|2019|Persons|South Australia|2024
+Incidence|Prostate cancer|2019|Persons|Tasmania|562
+Incidence|Prostate cancer|2019|Persons|Australian Capital Territory|294
+Incidence|Prostate cancer|2019|Persons|Northern Territory|94
+Incidence|Prostate cancer|2019|Persons|Australia|23027
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|New South Wales|782
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Victoria|632
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Queensland|523
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Western Australia|222
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|South Australia|168
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Tasmania|47
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Australian Capital Territory|33
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Northern Territory|13
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Males|Australia|2419
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|New South Wales|434
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Victoria|374
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Queensland|268
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Western Australia|143
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|South Australia|110
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Tasmania|41
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Australian Capital Territory|17
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Northern Territory|11
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Females|Australia|1391
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|New South Wales|1216
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Victoria|1006
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Queensland|791
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Western Australia|365
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|South Australia|278
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Tasmania|88
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Australian Capital Territory|50
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Northern Territory|24
+Incidence|Rectal cancer (excluding rectosigmoid junction)|2019|Persons|Australia|3810
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|New South Wales|1011
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Victoria|788
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Queensland|657
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Western Australia|262
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|South Australia|216
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Tasmania|65
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Australian Capital Territory|41
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Northern Territory|17
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Males|Australia|3055
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|New South Wales|602
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Victoria|475
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Queensland|352
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Western Australia|176
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|South Australia|154
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Tasmania|54
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Australian Capital Territory|24
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Northern Territory|14
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Females|Australia|1842
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|New South Wales|1613
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Victoria|1263
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Queensland|1009
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Western Australia|438
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|South Australia|370
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Tasmania|119
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Australian Capital Territory|65
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Northern Territory|31
+Incidence|Rectal cancer (including rectosigmoid junction)|2019|Persons|Australia|4897
+Incidence|Rectosigmoid junction cancer|2019|Males|New South Wales|229
+Incidence|Rectosigmoid junction cancer|2019|Males|Victoria|156
+Incidence|Rectosigmoid junction cancer|2019|Males|Queensland|134
+Incidence|Rectosigmoid junction cancer|2019|Males|Western Australia|40
+Incidence|Rectosigmoid junction cancer|2019|Males|South Australia|48
+Incidence|Rectosigmoid junction cancer|2019|Males|Tasmania|18
+Incidence|Rectosigmoid junction cancer|2019|Males|Australian Capital Territory|8
+Incidence|Rectosigmoid junction cancer|2019|Males|Northern Territory|4
+Incidence|Rectosigmoid junction cancer|2019|Males|Australia|636
+Incidence|Rectosigmoid junction cancer|2019|Females|New South Wales|168
+Incidence|Rectosigmoid junction cancer|2019|Females|Victoria|101
+Incidence|Rectosigmoid junction cancer|2019|Females|Queensland|84
+Incidence|Rectosigmoid junction cancer|2019|Females|Western Australia|33
+Incidence|Rectosigmoid junction cancer|2019|Females|South Australia|44
+Incidence|Rectosigmoid junction cancer|2019|Females|Tasmania|13
+Incidence|Rectosigmoid junction cancer|2019|Females|Australian Capital Territory|7
+Incidence|Rectosigmoid junction cancer|2019|Females|Northern Territory|3
+Incidence|Rectosigmoid junction cancer|2019|Females|Australia|451
+Incidence|Rectosigmoid junction cancer|2019|Persons|New South Wales|397
+Incidence|Rectosigmoid junction cancer|2019|Persons|Victoria|257
+Incidence|Rectosigmoid junction cancer|2019|Persons|Queensland|218
+Incidence|Rectosigmoid junction cancer|2019|Persons|Western Australia|73
+Incidence|Rectosigmoid junction cancer|2019|Persons|South Australia|92
+Incidence|Rectosigmoid junction cancer|2019|Persons|Tasmania|31
+Incidence|Rectosigmoid junction cancer|2019|Persons|Australian Capital Territory|16
+Incidence|Rectosigmoid junction cancer|2019|Persons|Northern Territory|6
+Incidence|Rectosigmoid junction cancer|2019|Persons|Australia|1087
+Incidence|Renal pelvis cancer|2019|Males|New South Wales|78
+Incidence|Renal pelvis cancer|2019|Males|Victoria|34
+Incidence|Renal pelvis cancer|2019|Males|Queensland|33
+Incidence|Renal pelvis cancer|2019|Males|Western Australia|20
+Incidence|Renal pelvis cancer|2019|Males|South Australia|16
+Incidence|Renal pelvis cancer|2019|Males|Tasmania|2
+Incidence|Renal pelvis cancer|2019|Males|Australian Capital Territory|3
+Incidence|Renal pelvis cancer|2019|Males|Northern Territory|2
+Incidence|Renal pelvis cancer|2019|Males|Australia|189
+Incidence|Renal pelvis cancer|2019|Females|New South Wales|49
+Incidence|Renal pelvis cancer|2019|Females|Victoria|21
+Incidence|Renal pelvis cancer|2019|Females|Queensland|30
+Incidence|Renal pelvis cancer|2019|Females|Western Australia|11
+Incidence|Renal pelvis cancer|2019|Females|South Australia|9
+Incidence|Renal pelvis cancer|2019|Females|Tasmania|3
+Incidence|Renal pelvis cancer|2019|Females|Australian Capital Territory|2
+Incidence|Renal pelvis cancer|2019|Females|Northern Territory|1
+Incidence|Renal pelvis cancer|2019|Females|Australia|124
+Incidence|Renal pelvis cancer|2019|Persons|New South Wales|127
+Incidence|Renal pelvis cancer|2019|Persons|Victoria|55
+Incidence|Renal pelvis cancer|2019|Persons|Queensland|63
+Incidence|Renal pelvis cancer|2019|Persons|Western Australia|31
+Incidence|Renal pelvis cancer|2019|Persons|South Australia|25
+Incidence|Renal pelvis cancer|2019|Persons|Tasmania|5
+Incidence|Renal pelvis cancer|2019|Persons|Australian Capital Territory|5
+Incidence|Renal pelvis cancer|2019|Persons|Northern Territory|2
+Incidence|Renal pelvis cancer|2019|Persons|Australia|313
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|New South Wales|34
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Victoria|14
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Queensland|16
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Western Australia|5
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|South Australia|6
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Tasmania|0
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Australian Capital Territory|1
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Northern Territory|1
+Incidence|Retroperitoneal and peritoneal cancer|2019|Males|Australia|77
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|New South Wales|37
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Victoria|28
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Queensland|25
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Western Australia|19
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|South Australia|25
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Tasmania|3
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Australian Capital Territory|2
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Northern Territory|1
+Incidence|Retroperitoneal and peritoneal cancer|2019|Females|Australia|139
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|New South Wales|71
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Victoria|42
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Queensland|41
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Western Australia|24
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|South Australia|31
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Tasmania|3
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Australian Capital Territory|3
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Northern Territory|2
+Incidence|Retroperitoneal and peritoneal cancer|2019|Persons|Australia|216
+Incidence|Small intestine cancer|2019|Males|New South Wales|139
+Incidence|Small intestine cancer|2019|Males|Victoria|98
+Incidence|Small intestine cancer|2019|Males|Queensland|111
+Incidence|Small intestine cancer|2019|Males|Western Australia|41
+Incidence|Small intestine cancer|2019|Males|South Australia|27
+Incidence|Small intestine cancer|2019|Males|Tasmania|11
+Incidence|Small intestine cancer|2019|Males|Australian Capital Territory|4
+Incidence|Small intestine cancer|2019|Males|Northern Territory|2
+Incidence|Small intestine cancer|2019|Males|Australia|429
+Incidence|Small intestine cancer|2019|Females|New South Wales|91
+Incidence|Small intestine cancer|2019|Females|Victoria|82
+Incidence|Small intestine cancer|2019|Females|Queensland|92
+Incidence|Small intestine cancer|2019|Females|Western Australia|30
+Incidence|Small intestine cancer|2019|Females|South Australia|27
+Incidence|Small intestine cancer|2019|Females|Tasmania|10
+Incidence|Small intestine cancer|2019|Females|Australian Capital Territory|4
+Incidence|Small intestine cancer|2019|Females|Northern Territory|2
+Incidence|Small intestine cancer|2019|Females|Australia|335
+Incidence|Small intestine cancer|2019|Persons|New South Wales|230
+Incidence|Small intestine cancer|2019|Persons|Victoria|180
+Incidence|Small intestine cancer|2019|Persons|Queensland|203
+Incidence|Small intestine cancer|2019|Persons|Western Australia|71
+Incidence|Small intestine cancer|2019|Persons|South Australia|54
+Incidence|Small intestine cancer|2019|Persons|Tasmania|21
+Incidence|Small intestine cancer|2019|Persons|Australian Capital Territory|8
+Incidence|Small intestine cancer|2019|Persons|Northern Territory|3
+Incidence|Small intestine cancer|2019|Persons|Australia|764
+Incidence|Soft tissue sarcoma|2019|Males|New South Wales|409
+Incidence|Soft tissue sarcoma|2019|Males|Victoria|250
+Incidence|Soft tissue sarcoma|2019|Males|Queensland|244
+Incidence|Soft tissue sarcoma|2019|Males|Western Australia|114
+Incidence|Soft tissue sarcoma|2019|Males|South Australia|79
+Incidence|Soft tissue sarcoma|2019|Males|Tasmania|23
+Incidence|Soft tissue sarcoma|2019|Males|Australian Capital Territory|16
+Incidence|Soft tissue sarcoma|2019|Males|Northern Territory|5
+Incidence|Soft tissue sarcoma|2019|Males|Australia|1142
+Incidence|Soft tissue sarcoma|2019|Females|New South Wales|294
+Incidence|Soft tissue sarcoma|2019|Females|Victoria|217
+Incidence|Soft tissue sarcoma|2019|Females|Queensland|220
+Incidence|Soft tissue sarcoma|2019|Females|Western Australia|81
+Incidence|Soft tissue sarcoma|2019|Females|South Australia|51
+Incidence|Soft tissue sarcoma|2019|Females|Tasmania|24
+Incidence|Soft tissue sarcoma|2019|Females|Australian Capital Territory|15
+Incidence|Soft tissue sarcoma|2019|Females|Northern Territory|4
+Incidence|Soft tissue sarcoma|2019|Females|Australia|907
+Incidence|Soft tissue sarcoma|2019|Persons|New South Wales|703
+Incidence|Soft tissue sarcoma|2019|Persons|Victoria|467
+Incidence|Soft tissue sarcoma|2019|Persons|Queensland|464
+Incidence|Soft tissue sarcoma|2019|Persons|Western Australia|195
+Incidence|Soft tissue sarcoma|2019|Persons|South Australia|130
+Incidence|Soft tissue sarcoma|2019|Persons|Tasmania|47
+Incidence|Soft tissue sarcoma|2019|Persons|Australian Capital Territory|31
+Incidence|Soft tissue sarcoma|2019|Persons|Northern Territory|9
+Incidence|Soft tissue sarcoma|2019|Persons|Australia|2049
+Incidence|Stomach cancer|2019|Males|New South Wales|481
+Incidence|Stomach cancer|2019|Males|Victoria|432
+Incidence|Stomach cancer|2019|Males|Queensland|278
+Incidence|Stomach cancer|2019|Males|Western Australia|162
+Incidence|Stomach cancer|2019|Males|South Australia|133
+Incidence|Stomach cancer|2019|Males|Tasmania|38
+Incidence|Stomach cancer|2019|Males|Australian Capital Territory|22
+Incidence|Stomach cancer|2019|Males|Northern Territory|8
+Incidence|Stomach cancer|2019|Males|Australia|1548
+Incidence|Stomach cancer|2019|Females|New South Wales|319
+Incidence|Stomach cancer|2019|Females|Victoria|226
+Incidence|Stomach cancer|2019|Females|Queensland|162
+Incidence|Stomach cancer|2019|Females|Western Australia|87
+Incidence|Stomach cancer|2019|Females|South Australia|55
+Incidence|Stomach cancer|2019|Females|Tasmania|21
+Incidence|Stomach cancer|2019|Females|Australian Capital Territory|12
+Incidence|Stomach cancer|2019|Females|Northern Territory|5
+Incidence|Stomach cancer|2019|Females|Australia|891
+Incidence|Stomach cancer|2019|Persons|New South Wales|800
+Incidence|Stomach cancer|2019|Persons|Victoria|658
+Incidence|Stomach cancer|2019|Persons|Queensland|440
+Incidence|Stomach cancer|2019|Persons|Western Australia|249
+Incidence|Stomach cancer|2019|Persons|South Australia|188
+Incidence|Stomach cancer|2019|Persons|Tasmania|59
+Incidence|Stomach cancer|2019|Persons|Australian Capital Territory|35
+Incidence|Stomach cancer|2019|Persons|Northern Territory|13
+Incidence|Stomach cancer|2019|Persons|Australia|2439
+Incidence|Testicular cancer|2019|Males|New South Wales|283
+Incidence|Testicular cancer|2019|Males|Victoria|260
+Incidence|Testicular cancer|2019|Males|Queensland|190
+Incidence|Testicular cancer|2019|Males|Western Australia|85
+Incidence|Testicular cancer|2019|Males|South Australia|54
+Incidence|Testicular cancer|2019|Males|Tasmania|15
+Incidence|Testicular cancer|2019|Males|Australian Capital Territory|14
+Incidence|Testicular cancer|2019|Males|Northern Territory|7
+Incidence|Testicular cancer|2019|Males|Australia|913
+Incidence|Testicular cancer|2019|Persons|New South Wales|283
+Incidence|Testicular cancer|2019|Persons|Victoria|260
+Incidence|Testicular cancer|2019|Persons|Queensland|190
+Incidence|Testicular cancer|2019|Persons|Western Australia|85
+Incidence|Testicular cancer|2019|Persons|South Australia|54
+Incidence|Testicular cancer|2019|Persons|Tasmania|15
+Incidence|Testicular cancer|2019|Persons|Australian Capital Territory|14
+Incidence|Testicular cancer|2019|Persons|Northern Territory|7
+Incidence|Testicular cancer|2019|Persons|Australia|913
+Incidence|Thyroid cancer|2019|Males|New South Wales|397
+Incidence|Thyroid cancer|2019|Males|Victoria|239
+Incidence|Thyroid cancer|2019|Males|Queensland|218
+Incidence|Thyroid cancer|2019|Males|Western Australia|106
+Incidence|Thyroid cancer|2019|Males|South Australia|48
+Incidence|Thyroid cancer|2019|Males|Tasmania|10
+Incidence|Thyroid cancer|2019|Males|Australian Capital Territory|14
+Incidence|Thyroid cancer|2019|Males|Northern Territory|6
+Incidence|Thyroid cancer|2019|Males|Australia|1038
+Incidence|Thyroid cancer|2019|Females|New South Wales|985
+Incidence|Thyroid cancer|2019|Females|Victoria|500
+Incidence|Thyroid cancer|2019|Females|Queensland|480
+Incidence|Thyroid cancer|2019|Females|Western Australia|253
+Incidence|Thyroid cancer|2019|Females|South Australia|131
+Incidence|Thyroid cancer|2019|Females|Tasmania|24
+Incidence|Thyroid cancer|2019|Females|Australian Capital Territory|30
+Incidence|Thyroid cancer|2019|Females|Northern Territory|16
+Incidence|Thyroid cancer|2019|Females|Australia|2428
+Incidence|Thyroid cancer|2019|Persons|New South Wales|1382
+Incidence|Thyroid cancer|2019|Persons|Victoria|739
+Incidence|Thyroid cancer|2019|Persons|Queensland|698
+Incidence|Thyroid cancer|2019|Persons|Western Australia|359
+Incidence|Thyroid cancer|2019|Persons|South Australia|179
+Incidence|Thyroid cancer|2019|Persons|Tasmania|34
+Incidence|Thyroid cancer|2019|Persons|Australian Capital Territory|44
+Incidence|Thyroid cancer|2019|Persons|Northern Territory|22
+Incidence|Thyroid cancer|2019|Persons|Australia|3466
+Incidence|Tongue cancer|2019|Males|New South Wales|234
+Incidence|Tongue cancer|2019|Males|Victoria|198
+Incidence|Tongue cancer|2019|Males|Queensland|197
+Incidence|Tongue cancer|2019|Males|Western Australia|70
+Incidence|Tongue cancer|2019|Males|South Australia|53
+Incidence|Tongue cancer|2019|Males|Tasmania|19
+Incidence|Tongue cancer|2019|Males|Australian Capital Territory|11
+Incidence|Tongue cancer|2019|Males|Northern Territory|8
+Incidence|Tongue cancer|2019|Males|Australia|785
+Incidence|Tongue cancer|2019|Females|New South Wales|109
+Incidence|Tongue cancer|2019|Females|Victoria|62
+Incidence|Tongue cancer|2019|Females|Queensland|61
+Incidence|Tongue cancer|2019|Females|Western Australia|27
+Incidence|Tongue cancer|2019|Females|South Australia|23
+Incidence|Tongue cancer|2019|Females|Tasmania|7
+Incidence|Tongue cancer|2019|Females|Australian Capital Territory|4
+Incidence|Tongue cancer|2019|Females|Northern Territory|2
+Incidence|Tongue cancer|2019|Females|Australia|296
+Incidence|Tongue cancer|2019|Persons|New South Wales|343
+Incidence|Tongue cancer|2019|Persons|Victoria|260
+Incidence|Tongue cancer|2019|Persons|Queensland|258
+Incidence|Tongue cancer|2019|Persons|Western Australia|97
+Incidence|Tongue cancer|2019|Persons|South Australia|76
+Incidence|Tongue cancer|2019|Persons|Tasmania|26
+Incidence|Tongue cancer|2019|Persons|Australian Capital Territory|15
+Incidence|Tongue cancer|2019|Persons|Northern Territory|10
+Incidence|Tongue cancer|2019|Persons|Australia|1081
+Incidence|Unknown primary site (cancer of)|2019|Males|New South Wales|463
+Incidence|Unknown primary site (cancer of)|2019|Males|Victoria|267
+Incidence|Unknown primary site (cancer of)|2019|Males|Queensland|284
+Incidence|Unknown primary site (cancer of)|2019|Males|Western Australia|293
+Incidence|Unknown primary site (cancer of)|2019|Males|South Australia|131
+Incidence|Unknown primary site (cancer of)|2019|Males|Tasmania|52
+Incidence|Unknown primary site (cancer of)|2019|Males|Australian Capital Territory|17
+Incidence|Unknown primary site (cancer of)|2019|Males|Northern Territory|9
+Incidence|Unknown primary site (cancer of)|2019|Males|Australia|1503
+Incidence|Unknown primary site (cancer of)|2019|Females|New South Wales|379
+Incidence|Unknown primary site (cancer of)|2019|Females|Victoria|249
+Incidence|Unknown primary site (cancer of)|2019|Females|Queensland|236
+Incidence|Unknown primary site (cancer of)|2019|Females|Western Australia|229
+Incidence|Unknown primary site (cancer of)|2019|Females|South Australia|120
+Incidence|Unknown primary site (cancer of)|2019|Females|Tasmania|47
+Incidence|Unknown primary site (cancer of)|2019|Females|Australian Capital Territory|14
+Incidence|Unknown primary site (cancer of)|2019|Females|Northern Territory|7
+Incidence|Unknown primary site (cancer of)|2019|Females|Australia|1283
+Incidence|Unknown primary site (cancer of)|2019|Persons|New South Wales|842
+Incidence|Unknown primary site (cancer of)|2019|Persons|Victoria|516
+Incidence|Unknown primary site (cancer of)|2019|Persons|Queensland|520
+Incidence|Unknown primary site (cancer of)|2019|Persons|Western Australia|522
+Incidence|Unknown primary site (cancer of)|2019|Persons|South Australia|251
+Incidence|Unknown primary site (cancer of)|2019|Persons|Tasmania|99
+Incidence|Unknown primary site (cancer of)|2019|Persons|Australian Capital Territory|30
+Incidence|Unknown primary site (cancer of)|2019|Persons|Northern Territory|16
+Incidence|Unknown primary site (cancer of)|2019|Persons|Australia|2786
+Incidence|Uterine cancer|2019|Females|New South Wales|923
+Incidence|Uterine cancer|2019|Females|Victoria|773
+Incidence|Uterine cancer|2019|Females|Queensland|607
+Incidence|Uterine cancer|2019|Females|Western Australia|246
+Incidence|Uterine cancer|2019|Females|South Australia|234
+Incidence|Uterine cancer|2019|Females|Tasmania|74
+Incidence|Uterine cancer|2019|Females|Australian Capital Territory|47
+Incidence|Uterine cancer|2019|Females|Northern Territory|19
+Incidence|Uterine cancer|2019|Females|Australia|2931
+Incidence|Uterine cancer|2019|Persons|New South Wales|923
+Incidence|Uterine cancer|2019|Persons|Victoria|773
+Incidence|Uterine cancer|2019|Persons|Queensland|607
+Incidence|Uterine cancer|2019|Persons|Western Australia|246
+Incidence|Uterine cancer|2019|Persons|South Australia|234
+Incidence|Uterine cancer|2019|Persons|Tasmania|74
+Incidence|Uterine cancer|2019|Persons|Australian Capital Territory|47
+Incidence|Uterine cancer|2019|Persons|Northern Territory|19
+Incidence|Uterine cancer|2019|Persons|Australia|2931
+Incidence|Vaginal cancer|2019|Females|New South Wales|35
+Incidence|Vaginal cancer|2019|Females|Victoria|15
+Incidence|Vaginal cancer|2019|Females|Queensland|29
+Incidence|Vaginal cancer|2019|Females|Western Australia|9
+Incidence|Vaginal cancer|2019|Females|South Australia|6
+Incidence|Vaginal cancer|2019|Females|Tasmania|0
+Incidence|Vaginal cancer|2019|Females|Australian Capital Territory|0
+Incidence|Vaginal cancer|2019|Females|Northern Territory|1
+Incidence|Vaginal cancer|2019|Females|Australia|94
+Incidence|Vaginal cancer|2019|Persons|New South Wales|35
+Incidence|Vaginal cancer|2019|Persons|Victoria|15
+Incidence|Vaginal cancer|2019|Persons|Queensland|29
+Incidence|Vaginal cancer|2019|Persons|Western Australia|9
+Incidence|Vaginal cancer|2019|Persons|South Australia|6
+Incidence|Vaginal cancer|2019|Persons|Tasmania|0
+Incidence|Vaginal cancer|2019|Persons|Australian Capital Territory|0
+Incidence|Vaginal cancer|2019|Persons|Northern Territory|1
+Incidence|Vaginal cancer|2019|Persons|Australia|94
+Incidence|Vulvar cancer|2019|Females|New South Wales|134
+Incidence|Vulvar cancer|2019|Females|Victoria|89
+Incidence|Vulvar cancer|2019|Females|Queensland|90
+Incidence|Vulvar cancer|2019|Females|Western Australia|32
+Incidence|Vulvar cancer|2019|Females|South Australia|32
+Incidence|Vulvar cancer|2019|Females|Tasmania|17
+Incidence|Vulvar cancer|2019|Females|Australian Capital Territory|3
+Incidence|Vulvar cancer|2019|Females|Northern Territory|3
+Incidence|Vulvar cancer|2019|Females|Australia|398
+Incidence|Vulvar cancer|2019|Persons|New South Wales|134
+Incidence|Vulvar cancer|2019|Persons|Victoria|89
+Incidence|Vulvar cancer|2019|Persons|Queensland|90
+Incidence|Vulvar cancer|2019|Persons|Western Australia|32
+Incidence|Vulvar cancer|2019|Persons|South Australia|32
+Incidence|Vulvar cancer|2019|Persons|Tasmania|17
+Incidence|Vulvar cancer|2019|Persons|Australian Capital Territory|3
+Incidence|Vulvar cancer|2019|Persons|Northern Territory|3
+Incidence|Vulvar cancer|2019|Persons|Australia|398

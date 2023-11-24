@@ -16,13 +16,15 @@ if __name__ == "__main__":
                                 sheet_name='Table S1a.1',
                                 skiprows=5,
                                 skipfooter=20).iloc[:, :6].replace(". .", "").rename(columns=clean_column_name)
-    incidence_df.to_csv('../data/transformed/incidence.csv', index=False, sep='|')
+    incidence_df[incidence_df['YEAR'] < 2019].to_csv('../data/transformed/incidence.csv', index=False, sep='|')
+    incidence_df[incidence_df['YEAR'] > 2018].to_csv('../data/transformed/incidence_new.csv', index=False, sep='|')
 
     mortality_df = pd.read_excel('../data/raw/aihw-can-122-CDiA-2023-Book-2a-Cancer-mortality-and-age-standardised-rates-by-age-5-year-groups.xlsx', 
                                 sheet_name='Table S2a.1',
                                 skiprows=5,
                                 skipfooter=18).iloc[:, :6].replace(". .", "").rename(columns=clean_column_name)
-    mortality_df.to_csv('../data/transformed/mortality.csv', index=False, sep='|')
+    mortality_df[mortality_df['YEAR'] < 2019].to_csv('../data/transformed/mortality.csv', index=False, sep='|')
+    mortality_df[mortality_df['YEAR'] > 2018].to_csv('../data/transformed/mortality_new.csv', index=False, sep='|')
 
     survival_df = pd.read_excel('../data/raw/aihw-can-122-CDiA-2023-Book-3a-Cancer-survival-summary-observed-relative-conditional-estimates.xlsx', 
                                 sheet_name='Table S3a.2',
@@ -34,4 +36,5 @@ if __name__ == "__main__":
                                 sheet_name='Table S7.1',
                                 skiprows=5,
                                 skipfooter=17).iloc[:, :6].replace(". .", "").rename(columns=clean_column_name)
-    territory_df.to_csv('../data/transformed/incidence_territory.csv', index=False, sep='|')
+    territory_df[territory_df['YEAR'] < 2019].to_csv('../data/transformed/incidence_territory.csv', index=False, sep='|')
+    territory_df[territory_df['YEAR'] > 2018].to_csv('../data/transformed/incidence_territory_new.csv', index=False, sep='|')

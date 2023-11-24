@@ -42,9 +42,8 @@ DATA_DICT = {"schema": "RAW_DATA",
 def load_raw_table(session, tname=None, tschema=None, dbschema=None):
     session.use_schema(dbschema)
 
-    location = "@external.raw_data_stage/{}".format(tname)
+    location = "@external.raw_data_stage/{}.csv.gz".format(tname)
     
-    # we can infer schema using the parquet read option
     df = session.read \
             .schema(tschema) \
             .options({"field_delimiter": "|", "record_delimiter": "\n", "skip_header": 1}) \
@@ -68,6 +67,16 @@ def validate_raw_tables(session):
     for tname in DATA_DICT['tables'].keys():
         print('{}: \n\t{}\n'.format(tname, session.table('RAW_DATA.{}'.format(tname)).columns))
 
+def create_table_streams(session):
+    _ = session.sql("CREATE OR REPLACE STREAM CANCERANALYTICS_DB.RAW_DATA.RAW_INCIDENCE_STREAM \
+                    ON TABLE CANCERANALYTICS_DB.RAW_DATA.INCIDENCE").collect()
+    _ = session.sql("CREATE OR REPLACE STREAM CANCERANALYTICS_DB.RAW_DATA.RAW_MORTALITY_STREAM \
+                    ON TABLE CANCERANALYTICS_DB.RAW_DATA.MORTALITY").collect()
+    _ = session.sql("CREATE OR REPLACE STREAM CANCERANALYTICS_DB.RAW_DATA.RAW_SURVIVAL_STREAM \
+                    ON TABLE CANCERANALYTICS_DB.RAW_DATA.SURVIVAL").collect()
+    _ = session.sql("CREATE OR REPLACE STREAM CANCERANALYTICS_DB.RAW_DATA.RAW_TERRITORY_STREAM \
+                    ON TABLE CANCERANALYTICS_DB.RAW_DATA.INCIDENCE_TERRITORY").collect()
+
 if __name__ == "__main__":
     # Add the utils package to our path and import the snowpark_utils function
     import os, sys
@@ -77,6 +86,8 @@ if __name__ == "__main__":
 
     from utils import snowpark_utils
     session = snowpark_utils.get_snowpark_session()
+
+    create_table_streams(session)
     load_all_raw_tables(session)
     validate_raw_tables(session)
 
