@@ -1,4 +1,4 @@
-snowsql_config_path = "~/.snowsql/config"
+snowsql_config_path = "/Users/gilbertharlimputra/Library/Application Support/snowflake/config.toml"
 snowsql_connection_name = "dev"
 
 [default]
@@ -10,7 +10,7 @@ handler = "app.main"
 execute_as_caller = true
 
 [dev]
-database = "HOL_DB"
+database = "CANCERANALYTICS_DB"
 schema = "TRANSFORMED_DATA"
 warehouse = "HOL_WH"
 role = "HOL_ROLE"
