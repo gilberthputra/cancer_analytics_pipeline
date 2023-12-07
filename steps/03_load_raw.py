@@ -40,6 +40,7 @@ DATA_DICT = {"schema": "RAW_DATA",
             }
 
 def load_raw_table(session, tname=None, tschema=None, dbschema=None):
+    session.use_warehouse("HOL_WH")
     session.use_schema(dbschema)
 
     location = "@external.raw_data_stage/{}.csv.gz".format(tname)
@@ -86,6 +87,8 @@ if __name__ == "__main__":
 
     from utils import snowpark_utils
     session = snowpark_utils.get_snowpark_session()
+    session.use_role("HOL_ROLE")
+    session.use_warehouse("HOL_WH")
 
     create_table_streams(session)
     load_all_raw_tables(session)

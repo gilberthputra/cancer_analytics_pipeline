@@ -1,3 +1,12 @@
+CREATE OR REPLACE PROCEDURE CANCERANALYTICS_DB.RAW_DATA.UPDATE_DASH_VIEW_SP()
+RETURNS string
+LANGUAGE PYTHON
+RUNTIME_VERSION = '3.8'
+PACKAGES = ('snowflake-snowpark-python')
+HANDLER = 'main'
+EXECUTE AS CALLER
+AS 
+$$
 import time
 from snowflake.snowpark import Session
 #import snowflake.snowpark.types as T
@@ -151,3 +160,5 @@ if __name__ == '__main__':
     test_views(session)
 
     session.close()
+
+$$

@@ -1,21 +1,22 @@
-#------------------------------------------------------------------------------
-# Hands-On Lab: Data Engineering with Snowpark
-# Script:       06_orders_process_sp/app.py
-# Author:       Jeremiah Hansen, Caleb Baechtold
-# Last Updated: 1/9/2023
-#------------------------------------------------------------------------------
-
-# SNOWFLAKE ADVANTAGE: Python Stored Procedures
-
+CREATE OR REPLACE PROCEDURE CANCERANALYTICS_DB.RAW_DATA.TRANSFORM_DATA_SP()
+RETURNS string
+LANGUAGE PYTHON
+RUNTIME_VERSION = '3.8'
+PACKAGES = ('snowflake-snowpark-python')
+HANDLER = 'transform_data'
+EXECUTE AS CALLER
+AS 
+$$
 import time
 from snowflake.snowpark import Session
-#import snowflake.snowpark.types as T
+import snowflake.snowpark.types as T
 import snowflake.snowpark.functions as F
 
+
 TABLE_DICT = {"INCIDENCE_STAGING": "RAW_INCIDENCE_STREAM",
-              "MORTALITY_STAGING": "RAW_MORTALITY_STREAM",
-              "SURVIVAL_STAGING": "RAW_SURVIVAL_STREAM",
-              "TERRITORY_STAGING": "RAW_TERRITORY_STREAM"}
+            "MORTALITY_STAGING": "RAW_MORTALITY_STREAM",
+            "SURVIVAL_STAGING": "RAW_SURVIVAL_STREAM",
+            "TERRITORY_STAGING": "RAW_TERRITORY_STREAM"}
 
 def load_raw_data_stream(session, stage_table, stream):
     stream_df = session.table(f"CANCERANALYTICS_DB.RAW_DATA.{stream}")
@@ -66,10 +67,10 @@ def create_sex_view(session):
     incidence_df, mortality_df, survival_df, incidence_territory_df = load_all_temp(session)
 
     sex_df = (incidence_df.select(F.col("SEX"))
-              .unionAll(mortality_df.select(F.col("SEX")))
-              .unionAll(survival_df.select(F.col("SEX")))
-              .unionAll(incidence_territory_df.select(F.col("SEX")))
-              .distinct())
+            .unionAll(mortality_df.select(F.col("SEX")))
+            .unionAll(survival_df.select(F.col("SEX")))
+            .unionAll(incidence_territory_df.select(F.col("SEX")))
+            .distinct())
     sex_df = sex_df.withColumn("SEX_ID", F.md5(F.col("SEX"))).sort(F.col("SEX"))
     sex_df = sex_df.rename(F.col("SEX"), "SEX_TYPE")
     sex_df = sex_df.select(F.col("SEX_ID"), F.col("SEX_TYPE"))
@@ -227,34 +228,46 @@ def test_views(session):
     survival_fact.limit(5).show()
     territory_fact.limit(5).show()
 
-def main(session: Session) -> str:
+def transform_data(session: Session) -> str:
     # Create the ORDERS table and ORDERS_STREAM stream if they don't exist
     for stage_table_name, stream_name in TABLE_DICT.items():
         load_raw_data_stream(session, stage_table_name, stream_name)
-
+    
     create_dimension_views(session)
     create_incidence_view(session)
     create_fact_views(session)
-    test_views(session)
+    #test_views(session)
 
     return f"Successfully transformed"
+$$
 
+-- # For local debugging
+-- # Be aware you may need to type-convert arguments if you add input parameters
+-- if __name__ == '__main__':
+--     # Add the utils package to our path and import the snowpark_utils function
+--     import os, sys
+--     current_dir = os.getcwd()
+--     parent_dir = os.path.dirname(current_dir)
+--     sys.path.append(parent_dir)
 
-# For local debugging
-# Be aware you may need to type-convert arguments if you add input parameters
-if __name__ == '__main__':
-    # Add the utils package to our path and import the snowpark_utils function
-    import os, sys
-    current_dir = os.getcwd()
-    parent_dir = os.path.dirname(current_dir)
-    sys.path.append(parent_dir)
+--     from utils import snowpark_utils
+--     session = snowpark_utils.get_snowpark_session()
+--     session.use_role("HOL_ROLE")
+--     session.use_warehouse("HOL_WH")
+--     session.use_database("CANCERANALYTICS_DB")
+--     session.use_schema("EXTERNAL")
+--     session.sproc.register(
+--         func=main,
+--         name='transform_data_sp',
+--         packages=['snowflake-snowpark-python'],
+--         is_permanent=True,
+--         stage_location='@EXTERNAL.RAW_DATA_STAGE',
+--         replace=True
+--     )
 
-    from utils import snowpark_utils
-    session = snowpark_utils.get_snowpark_session()
+--     # if len(sys.argv) > 1:
+--     #     print(main(session, *sys.argv[1:]))  # type: ignore
+--     # else:
+--     #     print(main(session))  # type: ignore
 
-    if len(sys.argv) > 1:
-        print(main(session, *sys.argv[1:]))  # type: ignore
-    else:
-        print(main(session))  # type: ignore
-
-    session.close()
+--     session.close()
