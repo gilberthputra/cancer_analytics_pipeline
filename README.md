@@ -1,4 +1,15 @@
 # cancer_dashboard_pipeline
+## Dependencies
+- Language : Python 3.11.5
+- Packages / Libraries : `pandas`, `snowflake-snowpark-python`, `nb_conda_kernels`, `openpyxl`, `seaborn`
+
+## Directory 
+- `data` : Contains the raw data and cleaned data.
+- `deprecated` : Previous version or unused codes.
+- `steps` : Contains all the steps to build the pipeline.
+- `utils` : Contains the utility functions to connect to snowflake.
+
+## Project Overview
 
 1. Convert the xlsx file into csv with '|' as the separator, as snowflake only accepts csv, tsv for structured formats and JSON, Avro, ORC, Parquet and XML for unstructured data,
 2. Create account level and database level objects, including uploading file to the staging area, built schemas for the raw data. These are done using snowflake sql.
@@ -9,14 +20,3 @@
 7. Create stored procedures to create views for dashboard analytics, so the processing is done in snowflake instead of the reporting tools. This depends on the update fact stored procedures and it won't start unless it completes. These are done using snowflake sql.
 8.  Create the DAG by using snowflake tasks.
 9. Test the pipeline abilitity to process incrementally by adding new data.
-
-# Dependencies
-- Language : Python 3.11.5
-- Packages / Libraries: `pandas`, `snowflake-snowpark-python`, `nb_conda_kernels`, `openpyxl`, `seaborn`
-
-# Repository Overview
-## Directory 
-- `data` : Contains the raw data and cleaned data.
-- `deprecated` : Previous version or unused codes.
-- `steps` : Contains all the steps to build the pipeline.
-- `utils` : Contains the utility functions to connect to snowflake.
