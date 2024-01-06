@@ -10,3 +10,13 @@
 8.  Create the DAG by using snowflake tasks.
 9. Test the pipeline abilitity to process incrementally by adding new data.
 
+# Dependencies
+- Language : Python 3.11.5
+- Packages / Libraries: `pandas`, `snowflake-snowpark-python`, `nb_conda_kernels`, `openpyxl`, `seaborn`
+
+# Repository Overview
+## Directory 
+- `data` : Contains the raw data and cleaned data.
+- `deprecated` : Previous version or unused codes.
+- `steps` : Contains all the steps to build the pipeline.
+- `utils` : Contains the utility functions to connect to snowflake.
