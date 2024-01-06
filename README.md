@@ -1,4 +1,4 @@
-# cancer_dashboard_pipeline
+# Cancer Analytics Pipeline (Snowflake)
 ## Dependencies
 - Language : Python 3.11.5
 - Packages / Libraries : `pandas`, `snowflake-snowpark-python`, `nb_conda_kernels`, `openpyxl`, `seaborn`
